@@ -1,11 +1,11 @@
-# Repositories: osu-Mg-skin
+# Repositories: osu-Mg-reload (Old: osu-Mg-skin)
 This is the project to bring Gacha Club characters, elements into osu! game
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
 Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
 
-[Warning Status]: As of now, my project is under suffering of being suspended. I'll continue updating the repo once the suspension is lifted. If not, I'll back up repo and move to another account.
+[Status]: As of now, my project is backed up and moved to this account.
 
 ---
 
@@ -14,7 +14,7 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.1.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.1), [**4.2.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.1) and [**5.0.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.5.0.0)
+- Version: [**4.1.1**](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.1.1), [**4.2.1**](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.2.1) and [**5.0.0**](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.5.0.0)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -30,9 +30,11 @@ All rights reserved.
 
 ✳ For 2.1.0, 3.0.x and 3.1.x (Old version): If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
-✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do, more information at issue [#14](https://github.com/greenmg2003/osu-Mg-skin/issues/14)
+✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
 
-✳ Want to contribue? Great, read this first before contributing: https://github.com/greenmg2003/osu-Mg-skin/blob/main/CONTRIBUTING.md
+✳ Want to contribue? Great, read this first before contributing: https://github.com/greenmg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md
+
+✳ The changelog mentioned in the issues are from osu-mg-skin, which are inaccessible until greenmg2003 account is recovered
 
 #                          ~ Mg's team in the skin - List of people ~
 
@@ -92,17 +94,17 @@ All rights reserved.
 
 # ~ Discord ~
 
-- Workshop: https://discord.gg/B9VjFgEdXy
+- Workshop: Closed!
 
-- Hikari Richiumu#4996 (skin's co-owner)
+- hikari_richiumu (skin's co-owner)
 
-- Hikari Maguneshiumu#3460 (skin's owner)
+- alpha_mg (skin's owner)
 
-- Bao1908#5172
+- Bao1908
 
 # ~ Changelog ~
 
-# [5.0.0 - finale](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.5.0.0)
+# [5.0.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.5.0.0)
 
 \+ Changed back to default combo counter, it looks simple and easier to read.
 
@@ -110,36 +112,36 @@ All rights reserved.
 
 \+ Lithia and Mg decided to take a rest from standing in mania! mode, so, it's up to you
 
-\+ Taiko section is now, only pippidon exists there. You can revamp it on your own
+\+ Taiko section is now, only pippidon exists there. Maybe Hikari-kun will jump in??
 
 🔄 Melody playing in the result screen is changed, credits to Dear My Cat's Popori game music!
 
 # [4.x]
-### [4.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
+### [4.1.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
 
-\+ GitHub update: Files are available in each branch (See [#10](https://github.com/greenmg2003/osu-Mg-skin/issues/10))
+\+ GitHub update: Files were available in each branch, re-uploading for this repo in progress
 
 \+ Song-select interface, menu click hitsounds reworked, credits to osu! lazer! 2021 November update
 
-\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue [#15](https://github.com/greenmg2003/osu-Mg-skin/issues/15))
+\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue #15)
 
-\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue [#16](https://github.com/greenmg2003/osu-Mg-skin/issues/16))
+\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue #16)
 
-\+ Spinner is now better (Suggested by Corne2Plum3 at issue [#17](https://github.com/greenmg2003/osu-Mg-skin/issues/17))
+\+ Spinner is now better (Suggested by Corne2Plum3 at issue #17)
 
-\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue [#18](https://github.com/greenmg2003/osu-Mg-skin/issues/18))
+\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue #18)
 
-\+ skin.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue [#20](https://github.com/greenmg2003/osu-Mg-skin/issues/20))
+\+ reload.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue #20)
 
 \+ For 4.1.0: menu-back has the word "Back" clearlier, and the ranking panel can't be fixed, sorry ☹️
 
-\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue [#21](https://github.com/greenmg2003/osu-Mg-skin/issues/21))
+\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue #21)
 
 \+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
 
 \+ 7K Mania! ruleset is available in my skin now, after the very hard work from bringing *"unused"* idea of osu! lazer skinning
 
-= Credits to that *"unused"* idea of osu! lazer skinning, check their work: https://www.figma.com/file/up6guVobzpc3DZlQxWzVmv/Gameplay-Layout
+= Credits to those assets of osu! lazer skinning, check their work: https://www.figma.com/file/up6guVobzpc3DZlQxWzVmv/Gameplay-Layout
 
 \+ 2 new unknow melodies are added in my skin for applause.mp3 file, feel free to make the chat/issue to tell me the name if you know!
 
@@ -149,7 +151,7 @@ All rights reserved.
 
 \+ Final release is out from approx. 22:50 10/04/2022 (GMT + 7)
 
-### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
+### [4.0.3](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.3)
 
 \+ Released today (14/2/2022) for special Valentines Day!~ ^^
 
@@ -165,7 +167,7 @@ All rights reserved.
 
 🔄 Taiko character changed: Let's welcome Hikari-chan to taiko! section! (And see ya Lithia!)
 
-### [4.0.2](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.2)
+### [4.0.2](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.2)
 
 🔄 Fixed bugs
 
@@ -175,7 +177,7 @@ All rights reserved.
 
 \+ Added metronomelow file, now you can hear the new hitsound of Hikari-kun catching the bananas!
 
-### [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
+### [4.0.1](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.1)
 
 🔄 Reworked comboburst
 
@@ -183,7 +185,7 @@ All rights reserved.
 
 \+ Added heartbeat to osu! cookie too
 
-### [4.0.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
+### [4.0.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.0)
 
 🔄 Fixed almost all hitsounds of Standard mode, and some hitsounds of interface
 
@@ -192,7 +194,7 @@ All rights reserved.
 \- Deleted the response of hit300, hit300g, hit300k (It means the image files of hit300, hit300g, hit300k are kept, while hit300-0, hit300g-0, hit300k-0 are changed from the image with the word "G R E A T" to a 1px image in transparent)
 
 🔄 The overlay of hitcircle is no longer translucent (If you want it to be blurred, please notify me, the next update will make it blurry)
-### [4.0.0-beta](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0-beta)
+### [4.0.0-beta](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.4.0.0-beta)
 
 \+ Started making the skin!
 
@@ -202,7 +204,7 @@ All rights reserved.
 
 ## [3.x]
 
-### [3.1.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.1)
+### [3.1.1](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.1.1)
 
 + Skin is released once again!
 
@@ -210,19 +212,19 @@ All rights reserved.
 
 🔄 Remake hit circle combo (default-x): Also changed to new font: Torus
 
-### [3.1.1-beta](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.1-beta)
+### [3.1.1-beta](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.1.1-beta)
 
 🔄 Remake the hitsound of Interface, feel more familiar to osu! lazer
 
 = Credits to Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
 
-### [3.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.0)
+### [3.1.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.1.0)
 
 \+ Skin is officialy released!
 
 ___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
 
-### [3.0.9](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.9)
+### [3.0.9](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.9)
 
 🔄 Remake the interface hitsound
 
@@ -232,7 +234,7 @@ ___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
 
 = Credits to osu! Gacha - Friends and love and WhiteCat skin
 
-### [3.0.8](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.8)
+### [3.0.8](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.8)
 
 🔄 Remake the cursor, slider follow circle
 
@@ -242,7 +244,7 @@ ___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
 
 ___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
 
-### [3.0.6 + 3.0.7](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.6)
+### [3.0.6 + 3.0.7](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.6)
 
 🔄 Fixed again the slider follow circle and approach circle 
 
@@ -250,19 +252,19 @@ ___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
 
  = Credits to osu! Gacha - Friends and love, Loneliness of Hikari Richiumu and WhiteCat skin
  
-### [3.0.5](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.5)
+### [3.0.5](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.5)
 
 🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki: Add animation to these elements
 
 = Credits to osu! Gacha - Friends and love
 
-### [3.0.3 + 3.0.4](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.3)
+### [3.0.3 + 3.0.4](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.3)
 
 🔄 Remake the hitsound, yeah?
 
 = Credits to Cookiezi skin
 
-### [3.0.1 + 3.0.2](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.1)
+### [3.0.1 + 3.0.2](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.3.0.1)
 
 🔄 Remake almost all osu! standard interface and some osu! mania elements, let's feel the rhythm osu! lazer
 
@@ -276,7 +278,7 @@ ___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
 
 ## [2.x]
 
-### [2.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.2.1.0)
+### [2.1.0](https://github.com/greenmg2003/osu-Mg-reload/releases/tag/v.2.1.0)
 
 \+ Skin is officialy released!
 
@@ -314,4 +316,4 @@ Mania source: https://osu.ppy.sh/community/forums/topics/1040098
 
 \+ Added taiko hitsounds
 
-(Decided not to send screenshot as it's a bit complicated in archiving and sending screenshot into GitHub)
+(Decided to add screenshot later on after finishing transfer as it's a bit complicated in archiving and sending screenshot into GitHub)
