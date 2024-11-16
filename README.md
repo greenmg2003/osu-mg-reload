@@ -32,7 +32,7 @@ All rights reserved.
 
 ✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
 
-✳ Want to contribue? Great, read this first before contributing: https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md
+✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
 ✳ The changelog mentioned in the issues are from osu-mg-skin, which are inaccessible until greenmg2003 account is recovered
 
