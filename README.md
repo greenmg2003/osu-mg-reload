@@ -72,7 +72,7 @@ All rights reserved.
 
 + Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
 
-+ Orangery Lofn (In HD mode, Combo Burst 4 - Old)
++ Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4 - Old)
 
 ### Couple 6: (In Combo Burst 7 - Old)
 
@@ -104,19 +104,8 @@ All rights reserved.
 
 # ~ Changelog ~
 
-# [5.0.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.0)
+## [4.x]
 
-\+ Changed back to default combo counter, it looks simple and easier to read.
-
-🔄 Catcher changed: Let's welcome Hikari-chan to catch! section! ^^
-
-\+ Lithia and Mg decided to take a rest from standing in mania! mode, so, it's up to you
-
-\+ Taiko section is now, only pippidon exists there. Maybe Hikari-kun will jump in??
-
-🔄 Melody playing in the result screen is changed, credits to Dear My Cat's Popori game music!
-
-# [4.x]
 ### [4.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
 
 \+ GitHub update: Files were available in each branch, re-uploading for this repo in progress
@@ -202,118 +191,3 @@ All rights reserved.
 
 = Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
 
-## [3.x]
-
-### [3.1.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1)
-
-+ Skin is released once again!
-
-🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki showing up in the ranking screen: Changed to new font: Torus
-
-🔄 Remake hit circle combo (default-x): Also changed to new font: Torus
-
-### [3.1.1-beta](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-beta)
-
-🔄 Remake the hitsound of Interface, feel more familiar to osu! lazer
-
-= Credits to Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
-
-### [3.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.0)
-
-\+ Skin is officialy released!
-
-___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
-
-### [3.0.9](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.9)
-
-🔄 Remake the interface hitsound
-
-🔄 Changed song selection tab image
-
-\+ Located where to select mode
-
-= Credits to osu! Gacha - Friends and love and WhiteCat skin
-
-### [3.0.8](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.8)
-
-🔄 Remake the cursor, slider follow circle
-
-\+ Added bg of menu of mode selection
-
-= Credits to osu! Gacha - Friends and love, WhiteCat, and Vaxei skin
-
-___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
-
-### [3.0.6 + 3.0.7](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.6)
-
-🔄 Fixed again the slider follow circle and approach circle 
-
-🔄 Changed miss hitsound (combo break)
-
- = Credits to osu! Gacha - Friends and love, Loneliness of Hikari Richiumu and WhiteCat skin
- 
-### [3.0.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.5)
-
-🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki: Add animation to these elements
-
-= Credits to osu! Gacha - Friends and love
-
-### [3.0.3 + 3.0.4](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.3)
-
-🔄 Remake the hitsound, yeah?
-
-= Credits to Cookiezi skin
-
-### [3.0.1 + 3.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.0.1)
-
-🔄 Remake almost all osu! standard interface and some osu! mania elements, let's feel the rhythm osu! lazer
-
-🔄 Remake cursor trail
-
-\- Remove some unnecessary elements
-
-\+ Skin.ini: Added details for mania 5K, 6K, 7K and 8K
-
-\= Credits to osu! 2007 skin and osu! lazer skin
-
-## [2.x]
-
-### [2.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0)
-
-\+ Skin is officialy released!
-
-___Preview (not all of elements are shown in this video):___ https://www.youtube.com/watch?v=lOg6r7LCDdA&t=4s
-
-### [2.0.4] (lost the skin)
-
-🔄 Changed new theme of hitcircle, thanks to this beatmap: https://osu.ppy.sh/beatmapsets/16599#osu/59406
-
-\+ Added couple 3,4,6,8 in comobursts
-
-🔄 Changed taiko! hitsounds - Let's play and feel like Taiko no Tatsujin game!
-
-### [2.0.3] (lost the skin)
-
-\+ Added mania elements, files and edited elements in skin.ini
-
-Mania source: https://osu.ppy.sh/community/forums/topics/1040098
-
-### [2.0.2] (lost the skin)
-
-🔄 Fixed hitcircles, slider end circle
-
-\+ Finished taiko! element
-
-\+ Finished osu! standard element
-
-🔄 Fixed skin.ini - Text color of song lists
-
-\- Removed non-necessary files
-
-🔄 Fixed cursors: From 4-leaf clover to green dots
-
-🔄 Fixed hitsound: Soft Slidertick
-
-\+ Added taiko hitsounds
-
-(Decided to add screenshot later on after finishing transfer as it's a bit complicated in archiving and sending screenshot into GitHub)
