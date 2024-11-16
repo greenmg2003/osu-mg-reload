@@ -106,7 +106,7 @@ All rights reserved.
 
 ## [4.x]
 
-### [4.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
+### [4.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.1) for Mg and Lithia Couple)
 
 \+ GitHub update: Files were available in each branch, re-uploading for this repo in progress
 
@@ -136,35 +136,9 @@ All rights reserved.
 
 🔄 Follow circle SD element is changed
 
-\+ Beta release is available from approx. 21:00 27/03/2022 (GMT + 7)
+\+ Beta release was available from approx. 21:00 27/03/2022 (GMT + 7)
 
 \+ Final release is out from approx. 22:50 10/04/2022 (GMT + 7)
-
-### [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3)
-
-\+ Released today (14/2/2022) for special Valentines Day!~ ^^
-
-\+ Added "Progress" next to Progress bar and "Stamina bar" next to HP Bar
-
-🔄 Edited song select UI:
-
-  \+ Now you are able to tap to group songs by "collections", "artist", "difficulty", "date played", no grouping" easier!
-  
-  \+ New couple: Hikari-chan & Hikari-kun
-
-🔄 Ranking panel changed: Replaced Lofn x Beta Mg by Hikari-kun x Hikari-chan couple
-
-🔄 Taiko character changed: Let's welcome Hikari-chan to taiko! section! (And see ya Lithia!)
-
-### [4.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.2)
-
-🔄 Fixed bugs
-
-🔄 Fixed menu-back button
-
-🔄 Catcher changed: Let's welcome Hikari-kun to catch! section! (And see ya Mg-kun!)
-
-\+ Added metronomelow file, now you can hear the new hitsound of Hikari-kun catching the bananas!
 
 ### [4.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.1)
 
