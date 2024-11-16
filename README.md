@@ -11,6 +11,7 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 #                                ~ osu! Mg ~
 
+![](https://imgur.com/a/OOBDLy0)
 
 - Author: **Alpha Green Mg**
 
