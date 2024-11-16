@@ -1,7 +1,7 @@
 I'll use this file for experimenting GitHub features. Don't mind me if I...
 
 ![Wtf](https://github.com/user-attachments/assets/5b81439c-e736-4d96-b5e5-0a38d3bb6495)
-
+```
 # Example headings
 
 ## Sample Section
@@ -26,3 +26,5 @@ Link to the helpful section: [Link Text](#thisll--be-a-helpful-section-about-the
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+```
+Okay, I guess I understand how this works
