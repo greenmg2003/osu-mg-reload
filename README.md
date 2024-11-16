@@ -14,7 +14,9 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1), [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1) and [**5.0.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.0)
+- Latest Version: [4.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.1)
+
+[4.1.1] is planned to be released soon
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
