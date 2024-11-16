@@ -1,6 +1,8 @@
 # Repositories: osu-Mg-reload (Old: osu-Mg-skin)
 1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from osu-mg-skin
 
+You may want to jump to [skin preview](#                                 ~ Media (Latest version) ~)
+
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
 Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
