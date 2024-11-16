@@ -117,5 +117,3 @@ All rights reserved.
 \+ Taiko section is now, only pippidon exists there. Maybe Hikari-kun will jump in??
 
 🔄 Melody playing in the result screen is changed, credits to Dear My Cat's Popori game music!
-
-
