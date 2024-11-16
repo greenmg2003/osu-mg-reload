@@ -72,7 +72,7 @@ All rights reserved.
 
 + Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
 
-+ Orangery Lofn (In HD mode, Combo Burst 4 - Old)
++ Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4 - Old)
 
 ### Couple 6: (In Combo Burst 7 - Old)
 
