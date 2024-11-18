@@ -31,6 +31,7 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 Okay, I guess I understand how this works
 
 
-- [x] #1
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete
+- [ ] #1
+- [ ] https://github.com/alphamg2003/osu-mg-reload/issues/2
+- [ ] https://github.com/alphamg2003/osu-mg-reload/issues/3
+- [x] https://github.com/alphamg2003/osu-mg-reload/issues/4
