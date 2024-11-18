@@ -31,7 +31,7 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 Okay, I guess I understand how this works
 
 
-- [ ] #1
+- [ ] https://github.com/alphamg2003/osu-mg-reload/issues/1
 - [ ] https://github.com/alphamg2003/osu-mg-reload/issues/2
 - [ ] https://github.com/alphamg2003/osu-mg-reload/issues/3
 - [x] https://github.com/alphamg2003/osu-mg-reload/issues/4
