@@ -123,7 +123,7 @@ All rights reserved.
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: v.5.0.0, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.5.0.0`, others will be moved to respective branches!)
 
 # [5.0.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.0)
 
