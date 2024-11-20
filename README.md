@@ -127,7 +127,7 @@ All rights reserved.
 
 ### [3.1.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1)
 
-+ Skin is released once again!
++ Skin is updated!
 
 🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki showing up in the ranking screen: Changed to new font: Torus
 
@@ -141,7 +141,7 @@ All rights reserved.
 
 ### [3.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.0)
 
-\+ Skin is officialy released!
+\+ Skin is officialy finalized!
 
 ___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
 
@@ -196,7 +196,3 @@ ___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
 \+ Skin.ini: Added details for mania 5K, 6K, 7K and 8K
 
 \= Credits to osu! 2007 skin and osu! lazer skin
-
-
-
-(Decided to add screenshot later on after finishing transfer as it's a bit complicated in archiving and sending screenshot into GitHub)
