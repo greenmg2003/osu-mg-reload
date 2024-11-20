@@ -125,7 +125,7 @@ All rights reserved.
 
 ## [3.x]
 
-### [3.1.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1)
+### [3.1.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release)
 
 + Skin is updated!
 
@@ -139,7 +139,7 @@ All rights reserved.
 
 = Credits to Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
 
-### [3.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.0)
+### [3.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.0-release)
 
 \+ Skin is officialy finalized!
 
