@@ -154,7 +154,7 @@ All rights reserved.
 
 🔄 Fixed almost all hitsounds of Standard mode, and some hitsounds of interface
 
-🔄 Fixed combobreak as suggested by Hikari Richiumu-chan
+🔄 Fixed combobreak as suggested by [Hikari Richiumu](https://github.com/hikari2006)
 
 \- Deleted the response of hit300, hit300g, hit300k (It means the image files of hit300, hit300g, hit300k are kept, while hit300-0, hit300g-0, hit300k-0 are changed from the image with the word "G R E A T" to a 1px image in transparent)
 
