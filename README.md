@@ -102,6 +102,25 @@ All rights reserved.
 
 - Bao1908
 
+#                                 ~ Media (Latest version) ~
+![Song Select](https://github.com/user-attachments/assets/f7b5bf5c-ca9a-4036-8519-3363adcbe481)
+
+![Mod selection](https://github.com/user-attachments/assets/2a113ef6-bf99-4734-a389-12fddedf0030)
+
+![Circles and Sliders](https://github.com/user-attachments/assets/d37ace1b-3faa-4ec2-aaae-2baa802e74b3)
+
+![Spinner](https://github.com/user-attachments/assets/d961b0aa-9a79-40d0-8162-322cad7866f6)
+
+![Catch! mode](https://github.com/user-attachments/assets/0185b8ac-115e-41d6-82d2-13617fe49325)
+
+![Taiko! mode](https://github.com/user-attachments/assets/2d190abd-b5a7-4c34-b0d8-4f851b07c314)
+
+![7K Maina! mode](https://github.com/user-attachments/assets/951f2d50-99d3-455e-ab89-56a378d88131)
+
+![4K Maina! mode](https://github.com/user-attachments/assets/8afa2dbb-3730-4d17-a8da-108c82c208f9)
+
+![Result Screen](https://github.com/user-attachments/assets/beb3768b-f506-44a4-9cba-3b703b27d431)
+
 # ~ Changelog ~
 
 ## [3.x]
