@@ -150,7 +150,7 @@ All rights reserved.
 
 🔄 Ranking panel changed: Replaced Lofn x Beta Mg by Hikari-kun x Hikari-chan couple
 
-🔄 Taiko character changed: Let's welcome Hikari-chan to taiko! section! (And see ya Lithia!)
+🔄 Taiko character changed: Let's welcome Hikari-chan to taiko! section!
 
 ### [4.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.2)
 
