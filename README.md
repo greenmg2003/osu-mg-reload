@@ -103,6 +103,26 @@ All rights reserved.
 
 - Bao1908
 
+#                                 ~ Media (Latest version) ~
+![Song Select](https://github.com/user-attachments/assets/6ece634e-dade-4024-901e-a6ce7ba97162)
+
+![Mod selection](https://github.com/user-attachments/assets/4ed97eb2-b28b-4f2a-a005-d44c0bb82872)
+
+![Circles and Sliders](https://github.com/user-attachments/assets/bd0dc348-4c3a-44f6-aa97-32acc39cc12c)
+
+![Spinner](https://github.com/user-attachments/assets/fafd06bf-a32d-4d8c-8285-2073f5a11d46)
+
+![Taiko! mode](https://github.com/user-attachments/assets/e08bd5d0-ac8d-4b0c-beb9-347a52cce9b8)
+
+![Catch! mode](https://github.com/user-attachments/assets/39332469-0b11-45a3-a6a2-bb19d87ac203)
+
+![4K Mania! mode](https://github.com/user-attachments/assets/31e4873e-b9ef-4fb5-8583-bc3992b19bcb)
+
+![7K Mania! mode](https://github.com/user-attachments/assets/c65957f8-5542-4c70-8f71-4af9a6647358)
+
+![Result Screen](https://github.com/user-attachments/assets/87e4f12d-e445-4b2d-9348-cef8eb0f9980)
+
+
 # ~ Changelog ~
 
 ## [4.x]
@@ -113,19 +133,17 @@ All rights reserved.
 
 \+ Song-select interface, menu click hitsounds reworked, credits to osu! lazer! 2021 November update
 
-\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue #15)
+\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue 15)
 
-\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue #16)
+\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue 16)
 
-\+ Spinner is now better (Suggested by Corne2Plum3 at issue #17)
+\+ Spinner is now better (Suggested by Corne2Plum3 at issue #7)
 
-\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue #18)
+\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue 18)
 
-\+ reload.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue #20)
+\+ reload.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue 20)
 
 \+ For 4.1.0: menu-back has the word "Back" clearlier, and the ranking panel can't be fixed, sorry ☹️
-
-\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue #21)
 
 \+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
 
