@@ -1,6 +1,8 @@
 # Repositories: osu-Mg-reload (Old: osu-Mg-skin)
 1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from osu-mg-skin
 
+You may want to jump to [skin preview](#-media-latest-version-)
+
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
 Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
@@ -101,6 +103,26 @@ All rights reserved.
 - alpha_mg (skin's owner)
 
 - Bao1908
+
+#                                 ~ Media (Latest version) ~
+
+![Song Select](https://github.com/user-attachments/assets/2ed70916-a890-4bcc-9bea-ba71966d36e4)
+
+![Mod selection](https://github.com/user-attachments/assets/c28d6f2c-46f3-4af0-a645-2f95ec5dae0d)
+
+![Circles and Sliders](https://github.com/user-attachments/assets/46dbaa26-b0a5-4cba-b502-1e2bf5351c04)
+
+![Spinner](https://github.com/user-attachments/assets/543ea319-3013-4a0b-a5ee-838cf9a5ad11)
+
+![Taiko! mode](https://github.com/user-attachments/assets/76f24046-f263-45b1-9a1e-be87a348ab10)
+
+![Catch! mode](https://github.com/user-attachments/assets/f98d0a9d-6c5b-4deb-90c1-763053002b5e)
+
+![4K Mania! Mode](https://github.com/user-attachments/assets/7ce81923-c3bb-435f-97fd-6cfb233625fc)
+
+![7K Mania! Mode](https://github.com/user-attachments/assets/0e2f768c-00e7-461e-a6c6-0f512d499f5c)
+
+![Result Screen](https://github.com/user-attachments/assets/062047eb-26d1-4bf5-8894-900cd1d63920)
 
 # ~ Changelog ~
 
