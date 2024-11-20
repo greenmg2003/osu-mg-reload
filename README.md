@@ -36,8 +36,7 @@ All rights reserved.
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
-✳ The changelog mentioned in the issues are from osu-mg-skin, which are inaccessible until greenmg2003 account is recovered
-
+✳ The issues mentioned in the changelog are from osu-mg-skin, which are inaccessible until greenmg2003 account is recovered
 #                          ~ Mg's team in the skin - List of people ~
 
 ### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.0 + 4.2.0 and in song selection interface of version 4.1.0)
