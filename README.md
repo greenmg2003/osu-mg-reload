@@ -106,13 +106,13 @@ All rights reserved.
 
 ## [2.x]
 
-### [2.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0)
+### [2.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release)
 
-\+ Skin is officialy released!
+\+ Skin is officially finalized!
 
 ___Preview (not all of elements are shown in this video):___ https://www.youtube.com/watch?v=lOg6r7LCDdA&t=4s
 
-### [2.0.4] (lost the skin)
+### [2.0.4](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.0.4)
 
 🔄 Changed new theme of hitcircle, thanks to this beatmap: https://osu.ppy.sh/beatmapsets/16599#osu/59406
 
