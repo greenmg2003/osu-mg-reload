@@ -106,7 +106,21 @@ All rights reserved.
 
 #                                 ~ Media (Latest version) ~
 
+![Song Select](https://github.com/user-attachments/assets/151b638c-bd20-4ef7-8046-a6ab93037c1f)
 
+![Mod Select](https://github.com/user-attachments/assets/22813971-f37c-488d-a41a-93ed190a25a7)
+
+![Spinner](https://github.com/user-attachments/assets/cca20bcc-3061-4598-8f84-217c8488118f)
+
+![Circles](https://github.com/user-attachments/assets/41118495-b195-4b2e-8678-3737b0ee10d3)
+
+![Result screen](https://github.com/user-attachments/assets/54df4ab5-ca7c-4b15-8a4d-44f806e7d2f5)
+
+![Taiko! mode](https://github.com/user-attachments/assets/8dd706d9-789f-484c-9664-998a1f2151fa)
+
+![Catch! mode](https://github.com/user-attachments/assets/4311e617-c23a-478a-9896-09ff12ca9583)
+
+![4K Mania! mode](https://github.com/user-attachments/assets/82aa582f-9278-40d1-bc03-0351f7eba55b)
 
 # ~ Changelog ~
 
