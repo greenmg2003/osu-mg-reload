@@ -134,19 +134,17 @@ All rights reserved.
 
 \+ Song-select interface, menu click hitsounds reworked, credits to osu! lazer! 2021 November update
 
-\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue #15)
+\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue 15)
 
-\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue #16)
+\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue 16)
 
-\+ Spinner is now better (Suggested by Corne2Plum3 at issue #17)
+\+ Spinner is now better (Suggested by Corne2Plum3 at issue 17)
 
-\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue #18)
+\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue 18)
 
-\+ reload.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue #20)
+\+ reload.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue 20)
 
-\+ For 4.1.0: menu-back has the word "Back" clearlier, and the ranking panel can't be fixed, sorry ☹️
-
-\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue #21)
+\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue 21)
 
 \+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
 
