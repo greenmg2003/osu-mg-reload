@@ -21,6 +21,8 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 All rights reserved.
 
+Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
+
 #                                 ~ Important ~
                                  
 ⚠ This skin contains elements with rapidly Gacha Club Theme and Default Theme. Please take caution if you're affected by epilepsy.
