@@ -24,9 +24,7 @@ All rights reserved.
 Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
-                                 
-⚠ This skin contains elements with rapidly Gacha Club Theme and Default Theme. Please take caution if you're affected by epilepsy.
-
+                                
 ⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use, and maybe for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.
 
 ⚠ **We DO NOT welcome Gacha players (and other players) who are woke LGBTQ+, and Gacha Kids (Gacha Players who are <14 years old).** If you are like that, you can call me homophobic, I don't care. You must be the reason why I leave Gacha Community, and let the community suffer from the haters, deal with it. 
