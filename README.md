@@ -15,7 +15,7 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release), [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) and [**5.0.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.0)
+- Version: [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release), [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) and [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -123,16 +123,13 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.5.0.0`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.5.0.1`, others will be moved to respective branches!)
+# [5.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
 
-# [5.0.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.0)
+🔄 All combo chain counter changed back to hand drawn like version 2.1
 
-\+ Changed back to default combo counter, it looks simple and easier to read.
+🔄 Result Screen UI is revamped! This will also apply to v.4.1.2 and v.4.2.2 soon
 
-🔄 Catcher changed: Let's welcome Hikari-chan to catch! section! ^^
+🔄 osu! standard spinner has a fresher look, Countdown (Legacy) is also re-written for better readability
 
-\+ Lithia and Mg decided to take a rest from standing in mania! mode, so, it's up to you
-
-\+ Taiko section is now, only pippidon exists there. Maybe Hikari-kun will jump in??
-
-🔄 Melody playing in the result screen is changed, credits to Dear My Cat's Popori game music!
+🔄 Playfield UI is revamped! This will also apply to v.4.1.2 and v.4.2.2 soon
