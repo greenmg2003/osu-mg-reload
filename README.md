@@ -108,17 +108,18 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ![Mod selection](https://github.com/user-attachments/assets/2893c3c4-159f-4071-9dc2-363792092b9b)
 
-![Spinner - Implementing in 5.0.1](https://github.com/user-attachments/assets/7c4d79fe-fb2a-496a-8d0c-60e02e4a412f)
+![Spinner](https://github.com/user-attachments/assets/b17294fa-f576-4b58-9834-386a87a8bab8)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/53d66dc9-905f-405c-a5ee-f13e8bbfa1b6)
+![Circles and Sliders](https://github.com/user-attachments/assets/eb961bec-d579-4e09-a944-53f83ada0e0e)
 
-![Catch! mode](https://github.com/user-attachments/assets/a695f21f-a0eb-48e8-9e3f-d05c6aa9aa29)
+![Catch! mode](https://github.com/user-attachments/assets/552c6e51-988c-4dd1-829f-2be959cfeb83)
 
-![4K Mania](https://github.com/user-attachments/assets/7cfcb86a-c4ef-4ab6-98c9-839e9df862c8)
+![4K Mania](https://github.com/user-attachments/assets/ea92503a-f80c-487c-bc7d-465b84242683)
 
-![7K Mania](https://github.com/user-attachments/assets/994978f3-db37-4820-94da-33b92082b9f8)
+![7K Mania](https://github.com/user-attachments/assets/63150065-c77a-4e0a-872d-082460c50726)
 
-![Result Screen](https://github.com/user-attachments/assets/8210ae89-8377-4dd7-9ecc-c9200ad41416)
+![Result Screen](https://github.com/user-attachments/assets/47a4f47c-61ec-4c37-b66d-97df344308fb)
+
 
 
 # ~ Changelog ~
