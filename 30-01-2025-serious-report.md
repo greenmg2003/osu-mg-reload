@@ -32,7 +32,7 @@ Just this year in Osekai Medal Hunters, tortori made an insulting statement abou
 
 ## 4. To reiterate, project osu! Gacha Club:
 - Always say **no** to Gacha Life. (Gacha Club is Gacha Club, there is no Gacha Life at all, but maybe if I and Hikari-chan have an agreement, or there is a request from Hikari-chan, then in later version, we might introduce the presence of characters made from Gacha Life 2)
-- **Never** get involved or affiliated with Gacha Life/Gacha Club Community.
+- **Never** gets involved or affiliated with Gacha Life/Gacha Club Community.
 - **Never** promotes cringe, heat, 18+ contents.
 - **Never** allows people under 13 to use the project.
 - Is a serious project to rewrite the definition of Gacha Club in osu!, that the usage is never bad when using correctly, and will always continue to develop to be strong enough to "slap" those who have grudges against or attempt to insult this project.
