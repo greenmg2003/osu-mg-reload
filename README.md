@@ -100,7 +100,7 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 # ~ Discord ~
 
-- Workshop: Closed!
+- Workshop: https://discord.gg/vCxKrf7nBd
 
 - hikari_richiumu (skin's co-owner)
 
