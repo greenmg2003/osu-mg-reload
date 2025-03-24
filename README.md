@@ -1,4 +1,4 @@
-# Repositories: osu-Mg-reload (Old: osu-Mg-skin)
+# Project: osu! Gacha Club (Repository: osu-Mg-reload)
 1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from osu-mg-skin
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
@@ -43,13 +43,13 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 #                          ~ Mg's team in the skin - List of people ~
 
-### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.1.x)
+### Couple 1 - Main: (In Combo Burst 5, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.1.x)
 
 + Alpha Green Mg (project leader) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section)
 
 + Lithia (In HR, NF, Relax mode, and in taiko! section)
 
-### Couple 2 - Main: (In Combo Burst 1 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.2.x + 5.0.x)
+### Couple 2 - Main: (In Combo Burst 1, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.2.x + 5.0.x)
 
 + Hikari Maguneshiumu (Another character of owner) (In Co-op mode)
 
@@ -59,9 +59,9 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 ### Not-a-couple:
 
-+ Hannah - Bao 1908 (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
++ Hannah - Bao 1908 (In DT mode, Comboburst 2)
 
-+ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
++ TCT (In Fade-In [FI] mode, Comboburst 3)
 
 ### Couple 3:
 
