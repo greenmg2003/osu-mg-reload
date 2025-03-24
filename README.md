@@ -79,7 +79,7 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 ### Couple 5: (In Comboburst 4 - New and in ranking panel from 2.1.0 to 4.1.0)
 
-+ Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
++ Dark Mg (Yami Mg/Beta Purple Mg) (In NC mode, Combo Burst 3 - Old)
 
 + Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4 - Old)
 
