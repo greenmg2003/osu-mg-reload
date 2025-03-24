@@ -13,21 +13,27 @@ Status: Project is currently active again, and **there will be** more updates so
 
 #                                ~ osu! Mg ~
 
-- Author: **Alpha Green Mg**
+- Leader: **Alpha Green Mg**
+
+- Co-leader: **Hikari Richiumu**
 
 - Version: [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release), [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) and [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
-All rights reserved.
+- If you have an osu! account and wanna set sail with me and co-leader, go [here](https://osu.ppy.sh/teams/14407)
 
 Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use, and maybe for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.
+⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.
 
-⚠ **We DO NOT welcome Gacha players (and other players) who are woke LGBTQ+, and Gacha Kids (Gacha Players who are <14 years old).** If you are like that, you can call me homophobic, I don't care. You must be the reason why I leave Gacha Community, and let the community suffer from the haters, deal with it. 
+Update on 24/03/2025 from Mg (me): I might re-consider supporting the community after the below community has done something worse to me, should the community choose to and welcome me and this project back
+
+⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
+
+⚠ **We DO NOT welcome member of RGVN (except explicit cases), Gacha players and other players who are woke LGBTQ+ (or should I say, the predators), and Gacha Kids (Gacha Players who are less than 14 years old).** If you are like that, and you wanna call me homophobic and disgusting guy, go on, I don't care. As stated, this project is only for the one who wish to sail on same boat with me and support me.
 
 ✳ For 2.1.0, 3.0.x and 3.1.x (Old version): If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
@@ -35,21 +41,23 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
-✳ The issues mentioned in the changelog are from osu-mg-skin, which are inaccessible until greenmg2003 account is recovered
+✳ Some issues mentioned in the changelog are from osu-mg-skin, you can go there and check
 
 #                          ~ Mg's team in the skin - List of people ~
 
-### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.0 + 4.2.0 and in song selection interface of version 4.1.0)
+### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.1.x)
 
-+ Light Mg/Alpha Green Mg (skin's owner) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section of 4.1.0)
++ Alpha Green Mg (project leader) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section of 4.1.0)
 
-+ Light Lithium/Lithia (In HR, NF, Relax mode, and in taiko! section of 4.1.0)
++ Lithia (In HR, NF, Relax mode, and in taiko! section of 4.1.0)
 
-### Couple 2: (In Combo Burst 1 - New, exclusive in ranking panel and song selection interface of version 4.2.0)
+### Couple 2 - Main: (In Combo Burst 1 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.2.x + 5.0.x)
 
-+ Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode]) (Updated character will be a little bit different)
++ Hikari Maguneshiumu (Another character of owner) (In Co-op mode, and in catch! section of 4.2.x)
 
-+ Hikari Richiumu (skin's co-owner) (In Co-op mode)
+*Note: Also it's Vanilla Mg [In HT mode]*
+
++ Hikari Richiumu (project co-leader) (In Co-op mode, and in catch! section of 5.0.x)
 
 ### Not-a-couple:
 
