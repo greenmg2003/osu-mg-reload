@@ -46,7 +46,7 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 + Alpha Green Mg (project leader) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section)
 
-+ Lithia (In HR, NF, Relax mode, and in taiko! section of 4.1.0)
++ Lithia (In HR, NF, Relax mode, and in taiko! section)
 
 ### Couple 2 - Main:
 
