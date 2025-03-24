@@ -17,7 +17,7 @@ Status: Project is currently active again, and **there will be** more updates so
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release), [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) and [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
+- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release) | [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) | [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
