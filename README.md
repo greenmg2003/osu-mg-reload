@@ -35,7 +35,7 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 ⚠ **We DO NOT welcome member of RGVN (except explicit cases), Gacha players and other players who are woke LGBTQ+ (or should I say, the predators), and Gacha Kids (Gacha Players who are less than 14 years old).** If you are like that, and you wanna call me homophobic and disgusting guy, go on, I don't care. As stated, this project is only for the one who wish to sail on same boat with me and support me.
 
-✳ For 4.1.x: The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
+✳ For 4.2.x: The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
