@@ -7,7 +7,7 @@ Please consider taking it for free, credits me if you want to reuse some of my G
 
 Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
 
-[Stability Status]: As of now, my project is backed up and moved to this account.
+[Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
 ---
 
