@@ -58,9 +58,9 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 ### Not-a-couple:
 
-+ Hannah - Bao 1908 (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
++ Hannah - Bao 1908 (In DT mode, Combo Burst 5)
 
-+ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
++ TCT (In Fade-In [FI] mode, Combo Burst 6)
 
 ### Couple 3: (In Combo Burst 10)
 
@@ -76,9 +76,9 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 ### Couple 5: (In ranking panel from 2.1.0 to 4.1.1)
 
-+ Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
++ Dark Mg (Yami Mg/Beta Purple Mg)) (In NC mode, Combo Burst 3)
 
-+ Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4 - Old)
++ Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4)
 
 ### Couple 6: (In Combo Burst 7)
 
