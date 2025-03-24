@@ -63,7 +63,7 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 + Hannah - Bao 1908 (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
 
-+ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
++ TCT (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
 
 ### Couple 3: (In Combo Burst 10 - Old)
 
