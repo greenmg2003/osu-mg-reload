@@ -12,6 +12,8 @@
 
 \+ However, please do not attack the one who supported my project all along, they are not deserved to be harrashed.
 
+\+ Update on May 25th 2025: I might consider this again, should the community choose to improve and welcome me to join them
+
 ## 3. Feel like you are at home with us!
 
 \+ If you feel down, or you have issues in your life, feel free to open up discussions to share with us about what you are struggling. We will try our best to cover you!
