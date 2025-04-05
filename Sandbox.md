@@ -39,4 +39,4 @@ Okay, I guess I understand how this works
 Putting this so that I can write the credit later:
 
 - Brush used for osu! mode panel: Either [Free PS Grass Brushes 2 by s1088](https://www.deviantart.com/s1088/art/Free-PS-Grass-Brushes-2-334156509) or [Grass Brushes 1 by Baringa-of-the-Wind](https://www.deviantart.com/baringa-of-the-wind/art/Grass-Brushes-1-54180033)
-- Panel texture: Photo by <a href="/photographer/mzacha-39017">mzacha</a> on <a href="/">Freeimages.com</a>
+- Panel texture: [Photo by mzachaon on Freeimages.com](https://www.freeimages.com/photo/grass-texture-1154152)
