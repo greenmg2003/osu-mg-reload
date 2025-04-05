@@ -35,3 +35,7 @@ Okay, I guess I understand how this works
 - [ ] https://github.com/alphamg2003/osu-mg-reload/issues/2
 - [ ] https://github.com/alphamg2003/osu-mg-reload/issues/3
 - [x] https://github.com/alphamg2003/osu-mg-reload/issues/4
+
+Putting this so that I can write the credit later:
+
+- Brush used for osu! mode panel: [Free PS Grass Brushes 2 by s1088](https://www.deviantart.com/s1088/art/Free-PS-Grass-Brushes-2-334156509)
