@@ -17,7 +17,7 @@ Status: Project is currently active again, and **there will be** more updates so
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.1-release) | [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) | [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
+- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.2-release) | [**4.2.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.2-release) | [**5.0.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -27,9 +27,12 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.
+~⚠ The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024, until the end of 14th April 2025. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.~ (This statement is subjected to be changed later)
 
 Update on 24/03/2025 from Mg (me): I might re-consider supporting the community after the below community has done something worse to me, should the community choose to and welcome me and this project back
+
+Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/04/2025, I'll give the community the second chance to test
+
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
@@ -112,33 +115,40 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/ceb4729b-c36e-44d0-aac6-20b9bc5992fa)
+![Song Select](https://github.com/user-attachments/assets/30726c0c-9996-4abc-99ee-1531fb571d29)
 
-![Mod selection](https://github.com/user-attachments/assets/2893c3c4-159f-4071-9dc2-363792092b9b)
+![Mod selection](https://github.com/user-attachments/assets/126cf508-4f42-4b5d-b085-3d2551623aeb)
 
-![Spinner](https://github.com/user-attachments/assets/b17294fa-f576-4b58-9834-386a87a8bab8)
+![Spinner](https://github.com/user-attachments/assets/cede8e5b-681a-4cd9-a446-3815f6292b2e)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/eb961bec-d579-4e09-a944-53f83ada0e0e)
+![Circles and Sliders](https://github.com/user-attachments/assets/4025ba38-5a4b-4efc-93e6-112009a83153)
 
-![Catch! mode](https://github.com/user-attachments/assets/552c6e51-988c-4dd1-829f-2be959cfeb83)
+![Catch! mode](https://github.com/user-attachments/assets/fab79b11-ccc8-46ed-91ce-31cc922aab1a)
 
-![4K Mania](https://github.com/user-attachments/assets/ea92503a-f80c-487c-bc7d-465b84242683)
+![4K Mania](https://github.com/user-attachments/assets/1b37fb4f-4c34-4053-9b38-93f9a178aa20)
 
-![7K Mania](https://github.com/user-attachments/assets/63150065-c77a-4e0a-872d-082460c50726)
+![7K Mania](https://github.com/user-attachments/assets/f52304cf-23dd-414a-873b-b253f56b86da)
 
-![Result Screen](https://github.com/user-attachments/assets/47a4f47c-61ec-4c37-b66d-97df344308fb)
-
-
+![Result Screen](https://github.com/user-attachments/assets/29b3511a-a500-451a-9f49-e2b6377f6f44)
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.5.0.1`, others will be moved to respective branches!)
-# [5.0.1](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
+(Main branch will only show the latest version: `v.5.0.2`, others will be moved to respective branches!)
 
-🔄 All combo chain counter changed back to hand drawn like version 2.1
 
-🔄 Result Screen UI is revamped! This will also apply to v.4.1.2 and v.4.2.2 soon
+# [5.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
 
-🔄 osu! standard spinner has a fresher look, Countdown (Legacy) is also re-written for better readability
+🔄 Slider color should be black after adjusting skin.ini, check #36
 
-🔄 Playfield UI is revamped! This will also apply to v.4.1.2 and v.4.2.2 soon
+🔄 Background of the hitcircle is adjusted for readability, check #36
+
+🔄 Revamped Section Pass/Fail to make it cleaner, check #3
+
+🔄 Improved osu! mode selection panel, #3
+
+🔄 Cleaned up the grading system with fresher hand-drawn characters, using the correct hex color matching the grading hex color shown in osu! web and osu! lazer, check #3 and #56
+
+\- Removed Read me first.txt file since we have the readme on GitHub now
+
+\+ リンバス カンパニー。
+
