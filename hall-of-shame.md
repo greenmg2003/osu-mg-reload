@@ -1,4 +1,4 @@
-# Reporting the extremely hateful action towards osu! Gacha Club project in the osu! Community
+# Hall of Shame - Reporting the extremely hateful action towards osu! Gacha Club project in the osu! Community
 
 TL, DR: Gacha Life/Gacha Club Community is bad and it affected negatively to my project. osu! community took that and bashed me, insulted me negatively, and this post is for exposing their actions.
 
@@ -21,7 +21,7 @@ In fact, Gacha Life and Gacha Club games are completely fine when used properly,
 ![7](https://github.com/user-attachments/assets/88db9cc7-557c-4048-b6e5-9610e0b67470)
 
 ## 2. The separation and stand out from the Gacha Life/Gacha Club community (Timeline: 2022 - 2024 - Project osu! Mg 2.0 - 5.0)
-I really can't stand the Gacha Life/Gacha Club community. With too many cringe contents, it's a very big sign that this community is brain rotted. But if I throw away my character that I created on my own the use anime girls like so, it's really useless for me, and I don't like that. That's why I start this project, and keep this project to be alive. Even after Hikari-chan doesn't play osu! anymore, I still try to hold and lead the project. 20k, 10k, 5k, and now 3.7k ranks. During this time, there was a drama, the kids from the Gacha Life 2 community accused me of being homophobic because I didn't join the LGBT woke with those guys and chose to be straight, which happened in April 2024. That's when I decided [to stop supporting the community](https://catboy.school/p/dxh9t2o723). The project will be from now on, independent from the community.
+I really can't stand the Gacha Life/Gacha Club community. With too many cringe contents, it's a very big sign that this community is brain rotted. But if I throw away my character that I created on my own the use anime girls like so, it's really useless for me, and I don't like that. That's why I start this project, and keep this project to be alive. Even after Hikari-chan doesn't play osu! anymore, I still try to hold and lead the project. 20k, 10k, 5k, and now 3.7k ranks. During this time, there was a drama, the kids from the Gacha Life 2 community accused me of being homophobic because I didn't join the LGBT woke with those guys and chose to be straight, which happened in April 2024. That's when I decided [to stop supporting the community](https://catboy.school/p/dxh9t2o723). The project will be from now on, independent from the community. I still can make this project to be part of the community, should they choose to behave well.
 
 ## 3. The insults will continue more, and more.
 Just this year in Osekai Medal Hunters, tortori made an insulting statement about the ball collaboration. That night, I also announced that I entered the 3.9k rank in the chat, and also received 2 insults. Perhaps, this kind of mindset will continue in a long time. It's a correct time to expose this action.
@@ -29,6 +29,13 @@ Just this year in Osekai Medal Hunters, tortori made an insulting statement abou
 ![8](https://github.com/user-attachments/assets/d3acfbce-4b8d-42d0-b5d5-0e5a4b7b3f0a)
 
 ![9](https://github.com/user-attachments/assets/9216d206-3ded-42d6-96fd-7a594ba2a342)
+
+On 17/04/2025, a Facebook user with the name Jhon Lowest Caubalejo directly attacked to me, using slur words and insulted me.
+
+![10](https://github.com/user-attachments/assets/0f1c1c90-c43d-45a1-bb7f-4a220ea796a6)
+
+![11](https://github.com/user-attachments/assets/92114aa4-2ca9-4cff-bd20-520eaa0bc8f7)
+
 
 ## 4. To reiterate, project osu! Gacha Club:
 - Always say **no** to Gacha Life. (Gacha Club is Gacha Club, there is no Gacha Life at all, but maybe if I and Hikari-chan have an agreement, or there is a request from Hikari-chan, then in later version, we might introduce the presence of characters made from Gacha Life 2)
