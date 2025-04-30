@@ -5,7 +5,7 @@ You may want to jump to [skin preview](#-media-latest-version-)
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
-Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
+Status: This branch 4.2.2 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -17,7 +17,7 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**4.2.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.1-release) (a major update from [**4.0.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3))
+- Version: [**4.2.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.2-release) 
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -27,9 +27,11 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.
+~⚠ The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024, until the end of 14th April 2025. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.~ (This statement is subjected to be changed later)
 
 Update on 24/03/2025 from Mg (me): I might re-consider supporting the community after the below community has done something worse to me, should the community choose to and welcome me and this project back
+
+Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/04/2025, I'll give the community the second chance to test
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
@@ -110,27 +112,55 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 #                                 ~ Media (Latest version) ~
 
-![Song Select](https://github.com/user-attachments/assets/2ed70916-a890-4bcc-9bea-ba71966d36e4)
+![Song Select](https://github.com/user-attachments/assets/267320ae-2faa-4559-8517-9823b73fa004)
 
-![Mod selection](https://github.com/user-attachments/assets/c28d6f2c-46f3-4af0-a645-2f95ec5dae0d)
+![Mod selection](https://github.com/user-attachments/assets/b90630a4-8f3f-4556-bf1c-cfafc61f931b)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/46dbaa26-b0a5-4cba-b502-1e2bf5351c04)
+![Circles and Sliders](https://github.com/user-attachments/assets/47872004-de1b-4b2f-a374-08f2677cdab6)
 
-![Spinner](https://github.com/user-attachments/assets/543ea319-3013-4a0b-a5ee-838cf9a5ad11)
+![Spinner](https://github.com/user-attachments/assets/7ef94bad-ab96-4801-8fc4-204ce5dbb3f6)
 
-![Taiko! mode](https://github.com/user-attachments/assets/76f24046-f263-45b1-9a1e-be87a348ab10)
+![Taiko! mode](https://github.com/user-attachments/assets/ec007961-854e-4afc-a32c-d5c7fd0028fe)
 
-![Catch! mode](https://github.com/user-attachments/assets/f98d0a9d-6c5b-4deb-90c1-763053002b5e)
+![Catch! mode](https://github.com/user-attachments/assets/9d38a522-f891-4696-8be6-1da07281b936)
 
-![4K Mania! Mode](https://github.com/user-attachments/assets/7ce81923-c3bb-435f-97fd-6cfb233625fc)
+![4K Mania! Mode](https://github.com/user-attachments/assets/317b5ca8-0409-4d4c-9dc6-76488d2b4669)
 
-![7K Mania! Mode](https://github.com/user-attachments/assets/0e2f768c-00e7-461e-a6c6-0f512d499f5c)
+![7K Mania! Mode](https://github.com/user-attachments/assets/eb816b64-b368-41cc-87db-3085d92c8c24)
 
-![Result Screen](https://github.com/user-attachments/assets/062047eb-26d1-4bf5-8894-900cd1d63920)
+![Result Screen](https://github.com/user-attachments/assets/a280b9a8-22f9-48de-b908-22a8ee27ad18)
 
 # ~ Changelog ~
 
 ## [4.x]
+
+### [4.2.2](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.2-release)
+
+🔄 Slider color should be black after adjusting skin.ini, check #36
+
+🔄 Background of the hitcircle is adjusted for readability, check #36
+
+🔄 Revamped Section Pass/Fail to make it cleaner, check #36
+
+🔄 All combo chain counter changed back to hand drawn like version 2.1
+
+🔄 Result Screen UI is also revamped, check #3
+
+🔄 osu! standard spinner has synced to v.5.0, Countdown (Legacy) is also re-written for better readability, check #3
+
+🔄 Playfield UI is revamped, requested in #3
+
+🔄 Improved osu! mode selection panel, check #3
+
+🔄 Cleaned up the grading system with fresher hand-drawn characters, using the correct hex color matching the grading hex color shown in osu! web and osu! lazer, check #3 and #56
+
+- Removed Read me first.txt file since we have the readme on GitHub now
+
++ Limbus Company! (I'm immersed into Project Moon too much now... xd)
+
+### [4.2.1](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.1-release)
+
+Minor bug fix and tweaks! I forgor to write the log... x_x
 
 ### [4.2.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.0-release) (a major update from [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)
 
