@@ -5,7 +5,7 @@ You may want to jump to [skin preview](#-media-latest-version-)
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
-Status: Project is done, and **there will be** more updates soon. Thank you for all your support!
+Status: This branch is currently active, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -17,7 +17,7 @@ Status: Project is done, and **there will be** more updates soon. Thank you for 
 
 - Co-leader: **Hikari Richiumu**
 
-- Latest Version: [**5.0.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.1)
+- Latest Version: [**5.0.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -128,7 +128,7 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 ![7K Mania](https://github.com/user-attachments/assets/043520f1-32d4-4b74-98c5-6c74dcc56679)
 
-![Result Screen](https://github.com/user-attachments/assets/8184f949-1f2c-42e4-8b56-ce4f2ee831a9)
+![Result Screen](https://github.com/user-attachments/assets/252cf1a0-4958-448b-8bb4-a86c8c66cabb)
 
 # ~ Changelog ~
 
@@ -141,6 +141,7 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 - Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
 
 + リンバス カンパニー。
+
 # [5.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
 
 🔄 Slider color should be black after adjusting skin.ini, check #36
