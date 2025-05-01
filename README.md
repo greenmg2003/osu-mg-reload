@@ -17,7 +17,7 @@ Status: This branch 4.1.2 is done, and **there will be** 1 last major update to 
 
 - Co-leader: **Hikari Richiumu**
 
-- Latest Version for this branch: [4.1.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.2-release)
+- Latest Version for this branch: [4.1.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.3-release)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -135,6 +135,13 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 # ~ Changelog ~
 
 ## [4.x]
+### [4.1.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.1.3-release)
+
+\- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+
+🔄 Readjust the info part of scorebar-bg, requested per #61
+
+\+ LIMBUS COMPANYYYYYYYYYYYYYYYYYY
 
 ### [4.1.2](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.1.2-release)
 
