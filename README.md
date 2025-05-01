@@ -141,7 +141,7 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 \+ Add Hikari Maguneshiumu into Taiko section, requested per issue #50
 
-\🔄 Readjust the info part of scorebar-bg, will apply for all character in final ultimate update 5.1.0
+🔄 Readjust the info part of scorebar-bg, will apply for all character in final ultimate update 5.1.0
 
 \- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
 
