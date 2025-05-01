@@ -112,34 +112,36 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/6bd08122-1013-40e7-8f9c-f1582ccc25d9)
 
-![Mod selection](https://github.com/user-attachments/assets/df573c52-882b-4ab0-bb1b-6e709fa280d6)
+![Song Select](https://github.com/user-attachments/assets/ba9074f3-a1c1-49ee-87ab-2d3e767e4386)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/151dc353-683f-49fc-afb6-75cd3e3c1a39)
+![Mod selection](https://github.com/user-attachments/assets/e74b5850-878f-4830-86ea-2d46778737bb)
 
-![Spinner](https://github.com/user-attachments/assets/acbcdbae-b42c-4295-b66f-9063d786b166)
+![Circles and Sliders](https://github.com/user-attachments/assets/c7ef5a06-876d-42f9-bdaf-6b26ac0190c3)
 
-![Taiko! mode](https://github.com/user-attachments/assets/66c0cc68-40e4-44da-bf7c-310e939fdf20)
+![Spinner](https://github.com/user-attachments/assets/4daf233a-95f9-4711-93e7-7337ac379306)
 
-![Catch! mode](https://github.com/user-attachments/assets/fbce4595-d46e-4806-b3de-c37e55d83172)
+![Taiko! mode](https://github.com/user-attachments/assets/c4a03b99-c013-46bd-9669-d07a313dd93a)
 
-![4K Mania! mode](https://github.com/user-attachments/assets/43403132-d509-4f3c-a4e8-764183713065)
+![Catch! mode](https://github.com/user-attachments/assets/2c9003c1-cf71-4f53-beb0-bd64da46f8f5)
 
-![7K Mania! mode](https://github.com/user-attachments/assets/a083bcb0-f225-4ecc-862b-493c0ae9d285)
+![4K Mania! mode](https://github.com/user-attachments/assets/37275a4a-27e8-4aab-80c0-5d88bd35d0fa)
 
-![Result Screen](https://github.com/user-attachments/assets/285e9157-d85a-475a-9074-c1bcadd04e4e)
+![7K Mania! mode](https://github.com/user-attachments/assets/4023bfbe-4ecc-4a18-b787-36bc4f4afedc)
 
-
+![Result Screen](https://github.com/user-attachments/assets/f961b944-106d-4bba-867e-a78391fb3876)
 
 # ~ Changelog ~
 
 ## [4.x]
+
 ### [4.1.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.1.3-release)
 
 \- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
 
 🔄 Readjust the info part of scorebar-bg, requested per #61
+
+\- Removed spinner-approach to match 5.0.3
 
 \+ LIMBUS COMPANYYYYYYYYYYYYYYYYYY
 
