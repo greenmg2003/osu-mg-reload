@@ -17,7 +17,7 @@ Status: Project is currently active again, and **there will be** more updates so
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.2-release) | [**4.2.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.2-release) | [**5.0.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
+- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.3-release) | [**4.2.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.3-release) | [**5.0.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -133,22 +133,14 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.5.0.2`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.5.0.3`, others will be moved to respective branches!)
 
+# [5.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
 
-# [5.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
++ Add Hikari Maguneshiumu into Taiko section, requested per issue #50
 
-🔄 Slider color should be black after adjusting skin.ini, check #36
+🔄 Readjust the info part of scorebar-bg, will apply for all character in final ultimate update 5.1.0
 
-🔄 Background of the hitcircle is adjusted for readability, check #36
+- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
 
-🔄 Revamped Section Pass/Fail to make it cleaner, check #3
-
-🔄 Improved osu! mode selection panel, #3
-
-🔄 Cleaned up the grading system with fresher hand-drawn characters, using the correct hex color matching the grading hex color shown in osu! web and osu! lazer, check #3 and #56
-
-\- Removed Read me first.txt file since we have the readme on GitHub now
-
-\+ リンバス カンパニー。
-
++ リンバス カンパニー。
