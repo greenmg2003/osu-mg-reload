@@ -136,13 +136,13 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 ### [4.2.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.3-release)
 
-- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+\- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
 
 🔄 Readjust the info part of scorebar-bg, requested per #61
 
 🔄 Small bug fixes
 
-+ Limbus Company!
+\+ Limbus Company!
 
 ### [4.2.2](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.2-release)
 
@@ -164,9 +164,9 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 🔄 Cleaned up the grading system with fresher hand-drawn characters, using the correct hex color matching the grading hex color shown in osu! web and osu! lazer, check #3 and #56
 
-- Removed Read me first.txt file since we have the readme on GitHub now
+\- Removed Read me first.txt file since we have the readme on GitHub now
 
-+ Limbus Company! (I'm immersed into Project Moon too much now... xd)
+\+ Limbus Company! (I'm immersed into Project Moon too much now... xd)
 
 
 ### [4.2.1](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.1-release)
