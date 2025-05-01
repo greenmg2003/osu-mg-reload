@@ -134,6 +134,14 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 ## [4.x]
 
+### [4.2.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.3-release)
+
+- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+
+🔄 Readjust the info part of scorebar-bg, requested per #61
+
++ Limbus Company!
+
 ### [4.2.2](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.2-release)
 
 🔄 Slider color should be black after adjusting skin.ini, check #36
@@ -158,9 +166,11 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 + Limbus Company! (I'm immersed into Project Moon too much now... xd)
 
+
 ### [4.2.1](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.1-release)
 
 Minor bug fix and tweaks! I forgor to write the log... x_x
+
 
 ### [4.2.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.0-release) (a major update from [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)
 
