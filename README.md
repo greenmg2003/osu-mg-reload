@@ -5,7 +5,7 @@ You may want to jump to [skin preview](#-media-latest-version-)
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
-Status: This branch 4.1.2 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
+Status: This branch 4.1.3 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
