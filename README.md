@@ -131,7 +131,7 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 ![7K Mania](https://github.com/user-attachments/assets/043520f1-32d4-4b74-98c5-6c74dcc56679)
 
-![Result Screen](https://github.com/user-attachments/assets/8184f949-1f2c-42e4-8b56-ce4f2ee831a9)
+![Result Screen](https://github.com/user-attachments/assets/8eef602a-2abb-43f3-81d8-ea981baeba71)
 
 # ~ Changelog ~
 
