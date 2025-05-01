@@ -111,24 +111,36 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/30726c0c-9996-4abc-99ee-1531fb571d29)
 
-![Mod selection](https://github.com/user-attachments/assets/126cf508-4f42-4b5d-b085-3d2551623aeb)
+![Song Select](https://github.com/user-attachments/assets/7b82d2a4-bfa9-48f4-a603-2a22a6996157)
 
-![Spinner](https://github.com/user-attachments/assets/cede8e5b-681a-4cd9-a446-3815f6292b2e)
+![Mod selection](https://github.com/user-attachments/assets/fa386ee2-c084-4f9b-8be6-c6ee5216bbc8)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/4025ba38-5a4b-4efc-93e6-112009a83153)
+![Circles and Sliders](https://github.com/user-attachments/assets/2abfc9e2-d255-43b1-a532-06a1ee8f7060)
 
-![Catch! mode](https://github.com/user-attachments/assets/fab79b11-ccc8-46ed-91ce-31cc922aab1a)
+![Spinner](https://github.com/user-attachments/assets/71a74256-3f86-4b5f-b30e-0c2ae0bbbd13)
 
-![4K Mania](https://github.com/user-attachments/assets/1b37fb4f-4c34-4053-9b38-93f9a178aa20)
+![Taiko! mode](https://github.com/user-attachments/assets/aacb4ca2-734e-42fe-8d01-4f62becde13b)
 
-![7K Mania](https://github.com/user-attachments/assets/f52304cf-23dd-414a-873b-b253f56b86da)
+![Catch! mode](https://github.com/user-attachments/assets/c31af4f4-c511-4b85-b650-33e70ab267d0)
 
-![Result Screen](https://github.com/user-attachments/assets/29b3511a-a500-451a-9f49-e2b6377f6f44)
+![4K Mania](https://github.com/user-attachments/assets/9cc05ce0-2c90-4949-a210-8161b0eb9234)
+
+![7K Mania](https://github.com/user-attachments/assets/043520f1-32d4-4b74-98c5-6c74dcc56679)
+
+![Result Screen](https://github.com/user-attachments/assets/8184f949-1f2c-42e4-8b56-ce4f2ee831a9)
 
 # ~ Changelog ~
 
+# [5.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
+
++ Add Hikari Maguneshiumu into Taiko section, requested per issue #50
+
+🔄 Readjust the info part of scorebar-bg, will apply for all character in final ultimate update 5.1.0
+
+- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+
++ リンバス カンパニー。
 # [5.0.2](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.2-release)
 
 🔄 Slider color should be black after adjusting skin.ini, check #36
