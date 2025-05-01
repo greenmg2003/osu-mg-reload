@@ -5,7 +5,7 @@ You may want to jump to [skin preview](#-media-latest-version-)
 
 Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
 
-Status: This branch 4.2.2 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
+Status: This branch 4.2.3 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -17,7 +17,7 @@ Status: This branch 4.2.2 is done, and **there will be** 1 last major update to 
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**4.2.2**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.2-release) 
+- Version: [**4.2.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.3-release) 
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -112,27 +112,37 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 #                                 ~ Media (Latest version) ~
 
-![Song Select](https://github.com/user-attachments/assets/267320ae-2faa-4559-8517-9823b73fa004)
+![Song Select](https://github.com/user-attachments/assets/5eddd44a-1215-4fed-b2d2-da373d68e4a4)
 
-![Mod selection](https://github.com/user-attachments/assets/b90630a4-8f3f-4556-bf1c-cfafc61f931b)
+![Mod selection](https://github.com/user-attachments/assets/4e1a01d7-ccf2-4a56-babb-827eafdea26d)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/47872004-de1b-4b2f-a374-08f2677cdab6)
+![Circles and Sliders](https://github.com/user-attachments/assets/9cdc2865-0949-423b-a4f5-107bf5f83c60)
 
-![Spinner](https://github.com/user-attachments/assets/7ef94bad-ab96-4801-8fc4-204ce5dbb3f6)
+![Spinner](https://github.com/user-attachments/assets/3b261ab1-afde-43e7-9938-8396cc81391a)
 
-![Taiko! mode](https://github.com/user-attachments/assets/ec007961-854e-4afc-a32c-d5c7fd0028fe)
+![Taiko! mode](https://github.com/user-attachments/assets/c3a16e5f-40df-4d34-ae2b-696981f4f2c9)
 
-![Catch! mode](https://github.com/user-attachments/assets/9d38a522-f891-4696-8be6-1da07281b936)
+![Catch! mode](https://github.com/user-attachments/assets/78f9597e-4d9e-4ec5-b66d-f7a00603a6da)
 
-![4K Mania! Mode](https://github.com/user-attachments/assets/317b5ca8-0409-4d4c-9dc6-76488d2b4669)
+![4K Mania! Mode](https://github.com/user-attachments/assets/197849e2-caa2-4489-a628-58d7459c07f8)
 
-![7K Mania! Mode](https://github.com/user-attachments/assets/eb816b64-b368-41cc-87db-3085d92c8c24)
+![7K Mania! Mode](https://github.com/user-attachments/assets/5aeda919-af73-45a7-953e-72130230afa6)
 
-![Result Screen](https://github.com/user-attachments/assets/a280b9a8-22f9-48de-b908-22a8ee27ad18)
+![Result Screen](https://github.com/user-attachments/assets/6446062c-f220-4ba4-9ede-92fa92b85de1)
 
 # ~ Changelog ~
 
 ## [4.x]
+
+### [4.2.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.3-release)
+
+- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+
+🔄 Readjust the info part of scorebar-bg, requested per #61
+
+🔄 Small bug fixes
+
++ Limbus Company!
 
 ### [4.2.2](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.2-release)
 
@@ -158,9 +168,11 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 + Limbus Company! (I'm immersed into Project Moon too much now... xd)
 
+
 ### [4.2.1](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.1-release)
 
 Minor bug fix and tweaks! I forgor to write the log... x_x
+
 
 ### [4.2.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.0-release) (a major update from [4.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)
 
