@@ -33,10 +33,11 @@ Update on 24/03/2025 from Mg (me): I might re-consider supporting the community 
 
 Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/04/2025, I'll give the community the second chance to test
 
+Update on 04/05/2025: Temporarily lifted this thing until furthe notice.
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
-⚠ **We DO NOT welcome member of RGVN (except explicit cases), Gacha players and other players who are woke LGBTQ+ (or should I say, the predators), and Gacha Kids (Gacha Players who are less than 14 years old).** If you are like that, and you wanna call me homophobic and disgusting guy, go on, I don't care. As stated, this project is only for the one who wish to sail on same boat with me and support me.
+⚠ **We DO NOT welcome member of RGVN (except explicit cases that has no ill intention), predators and extremists.** As stated, this project is only for the one who wish to sail on same boat with me and support me.
 
 ✳ For 2.1.0, 3.0.x and 3.1.x: If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
