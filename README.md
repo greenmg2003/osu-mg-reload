@@ -1,4 +1,8 @@
-# Project: osu! Gacha Club (Repository: osu-Mg-reload)
+# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01
+
+![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
+
+
 1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from [osu-mg-skin](https://github.com/greenmg2003/osu-Mg-skin)
 
 You may want to jump to [skin preview](#-media-latest-version-)
