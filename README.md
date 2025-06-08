@@ -31,17 +31,11 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-~⚠ The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024, until the end of 14th April 2025. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.~ (This statement is subjected to be changed later)
-
-Update on 24/03/2025 from Mg (me): I might re-consider supporting the community after the below community has done something worse to me, should the community choose to and welcome me and this project back
-
-Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/04/2025, I'll give the community the second chance to test
-
-Update on 04/05/2025: Temporarily lifted this thing until furthe notice.
+⚠ **The Project (along with big project - osu! Gacha Club) will not affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past.
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
-⚠ **We DO NOT welcome member of RGVN (except explicit cases that has no ill intention), predators and extremists.** As stated, this project is only for the one who wish to sail on same boat with me and support me.
+⚠ **We DO NOT welcome member of RGVN (except explicit cases that has no ill intention), predators and extremists, especially we DO NOT welcome kids from Gacha Community who are under 14 years old, or who made cringe, heat content.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
 ✳ For 2.1.0, 3.0.x and 3.1.x: If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
