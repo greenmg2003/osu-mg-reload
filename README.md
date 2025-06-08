@@ -7,8 +7,6 @@
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
-
 Status: Project is currently active again, and **there will be** more updates soon. Thank you for all of your support!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
@@ -31,7 +29,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) will not affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past.
+⚠ **The Project (along with big project - osu! Gacha Club) will not affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md).
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
