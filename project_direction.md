@@ -12,4 +12,4 @@ There are, of course, some opinions that has been voiced about this concern. But
 
 Of course, I will only protect the people who has supported the project. After all, the purpose is achieved, and I can sit back and relax. Version 5.1.0 might come later, but only after I have polished everything.Maybe that's all thing I need to say.
 
-- Alpha Mg, current leader of osu! Gacha Club project -
+\- Alpha Mg, current leader of osu! Gacha Club project -
