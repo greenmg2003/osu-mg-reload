@@ -8,8 +8,12 @@ For me, I am **extremely disappointed** that the community just got worse and wo
 
 ([Original post](https://www.reddit.com/r/GachaClubCringe/comments/1l5p2yo/the_faith_onto_gacha_clubgacha_life_community/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
 
-There are, of course, some opinions that has been voiced about this concern. But in sum, they turned the green light of me not putting the faith into the community. The team member, along with the project, will reject any forms of using this project to "beautify the community". We have decided to continue standing outside of the community, and therefore, all the hates about this project having Gacha Club in it will continue be redirected to the community. 
+Not only that, I do have to mention the root cause of the community, the child doing a lot of heat and NSFW contents, and the outsiders, or even people in the community thought this game is cringe and disgusting. The community knew, yet what did they do? Nothing. Just a very few education lessons, and that's it. The reputation of the game is much very bad to the whole.
 
-Of course, I will only protect the people who has supported the project. After all, the purpose is achieved, and I can sit back and relax. Version 5.1.0 might come later, but only after I have polished everything.Maybe that's all thing I need to say.
+([Here is one of the examples. There are more.](https://www.reddit.com/r/GachaClubCringe/s/t2C0MzoarD))
+
+There are, of course, some opinions that has been voiced about this concern. But in sum, they turned the green light of me not putting the faith into the community. The team member, along with the project, will reject any forms of using this project to "beautify the community". We have decided to continue standing outside of the community, and therefore, all the hates about this project having Gacha Club in it will continue to be redirected to the community. 
+
+Of course, I will only protect the people who has supported the project. After all, the purpose is achieved, and I can sit back and relax. Version 5.1.0 might come later, but only after I have polished everything. Maybe that's all thing I need to say.
 
 \- Alpha Mg, current leader of osu! Gacha Club project -
