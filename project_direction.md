@@ -10,7 +10,7 @@ For me, I am **extremely disappointed** that the community just got worse and wo
 
 Not only that, I do have to mention the root cause of the community, the child doing a lot of heat and NSFW contents, and the outsiders, or even people in the community thought this game is cringe and disgusting. The community knew, yet what did they do? Nothing. Just a very few education lessons, and that's it. The reputation of the game is much very bad to the whole.
 
-([Here is one of the examples. There are more.](https://www.reddit.com/r/GachaClubCringe/s/t2C0MzoarD))
+([Here is one of the examples. There are more.](https://www.reddit.com/r/GachaClubCringe/comments/1lsuq1o/heavy_heavy_tw_rpe_its_sick_its_just_sick/))
 
 There are, of course, some opinions that has been voiced about this concern. But in sum, they turned the green light of me not putting the faith into the community. The team member, along with the project, will reject any forms of using this project to "beautify the community". We have decided to continue standing outside of the community, and therefore, all the hates about this project having Gacha Club in it will continue to be redirected to the community. 
 
