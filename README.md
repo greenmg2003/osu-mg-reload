@@ -29,7 +29,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) will not affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md).
+⚠ **The Project (along with big project - osu! Gacha Club) DOES NOT affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that. The community does bad thing and they must suffer the consequences themselves, not me.
 
 ⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
 
