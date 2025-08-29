@@ -7,7 +7,7 @@
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Status: Project is currently active again, and **there will be** more updates soon. Thank you for all of your support!
+Current status: Project is realeasing the translation for Vietnamese and Japanese support! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -21,7 +21,7 @@ Status: Project is currently active again, and **there will be** more updates so
 
 - Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.3-release) | [**4.2.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.3-release) | [**5.0.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
 
-- Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
+- Copyright issue: Assets that are made from other skins are credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
 - If you have an osu! account and wanna set sail with me and co-leader, go [here](https://osu.ppy.sh/teams/14407)
 
@@ -29,19 +29,19 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-⚠ **The Project (along with big project - osu! Gacha Club) DOES NOT affiliate and support Gacha Community.** That does not mean I stopped supporting the game, but please **DO NOT refer this as a part of Gacha Community**. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that. The community does bad thing and they must suffer the consequences themselves, not me.
+⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that. The community does bad thing and they must suffer the consequences themselves, not me.
 
-⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
-
-⚠ **We DO NOT welcome member of RGVN (except explicit cases that has no ill intention), predators and extremists, especially we DO NOT welcome kids from Gacha Community who are under 14 years old, or who made cringe, heat content.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
+⚠ **We DO NOT welcome kids from Gacha Community who are 16 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
 ✳ For 2.1.0, 3.0.x and 3.1.x: If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
-✳ For 4.0.x, 4.1.x and 4.2.x: The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
+✳ For 4.1.x, 4.2.x, 5.0.x: The skin is only SD.
+
+✳ For 6.x onwards: The skin will be fully supported with HD with new design
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
-✳ Some issues mentioned in the changelog are from osu-mg-skin, you can go there and check
+✳ There might be some issues mentioned in the changelog that are from [osu-Mg-skin](https://github.com/greenmg2003/osu-Mg-skin), you can go there and check
 
 #                          ~ Mg's team in the skin - List of people ~
 
