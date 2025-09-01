@@ -18,13 +18,11 @@
 
 \+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
 
-## R-2. Refrain from referring the project as a part of Gacha Community, until further notice.
+## R-2. Refrain from referring the project as a part of Gacha Community.
 
-\+ Starting from May 15th, the project no longer affiliates with Gacha Community until further notice. This is subjected to change, but as of now, calling this as part of the community to violate Rule 1 is not tolerated.
+\+ The project is not affiliated with Gacha Community. Calling this as part of the community is not allowed.
 
 \+ Do not attack the one who supported my project all along, they are not deserved to be harrashed.
-
-\+ Update on May 25th 2025: I might consider this again, should the community choose to improve and welcome me to join them
 
 ## R-3. Follow osu! rules
 
