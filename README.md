@@ -1,11 +1,13 @@
-# Project: osu! Gacha Club (Repository: osu-Mg-reload)
-1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from osu-mg-skin
+# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01  | Branch: v.4.2.x
+
+![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
+
+
+1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from [osu-mg-skin](https://github.com/greenmg2003/osu-Mg-skin)
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Please consider taking it for free, credits me if you want to reuse some of my Gacha Club elements ^^
-
-Status: This branch 4.2.3 is done, and **there will be** 1 last major update to close Season 1 - Coming soon at 5.1.0. Thank you for all your support!
+Current status: Project is realeasing the translation for Vietnamese and Japanese support! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -17,7 +19,7 @@ Status: This branch 4.2.3 is done, and **there will be** 1 last major update to 
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**4.2.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.3-release) 
+- Version: [**4.2.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release) 
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -27,21 +29,15 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Important ~
                                 
-~⚠ The Project (along with big project - osu! Gacha Club) no longer affiliates and no longer supports Gacha Community anymore, starting from 15th May, 2024, until the end of 14th April 2025. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community anymore like it used to be.~ (This statement is subjected to be changed later)
+⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that. The community does bad thing and they must suffer the consequences themselves, not me.
 
-Update on 24/03/2025 from Mg (me): I might re-consider supporting the community after the below community has done something worse to me, should the community choose to and welcome me and this project back
-
-Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/04/2025, I'll give the community the second chance to test
-
-⚠ **The Project (along with big project - osu! Gacha Club) also no longer affiliates and no longer supports RGVN, starting from 20th March, 2025. Their defamation behind my back has disgusted me.** Should they continue to consume this project to defame members of the project and caught red-handed, I'll file a lawsuit.
-
-⚠ **We DO NOT welcome member of RGVN (except explicit cases), Gacha players and other players who are woke LGBTQ+ (or should I say, the predators), and Gacha Kids (Gacha Players who are less than 14 years old).** If you are like that, and you wanna call me homophobic and disgusting guy, go on, I don't care. As stated, this project is only for the one who wish to sail on same boat with me and support me.
+⚠ **We DO NOT welcome kids from Gacha Community who are 16 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
 ✳ For 4.2.x: The skin is only SD-based, HD elements will be reworked once I have plenty of time to do
 
 ✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
-✳ Some issues mentioned in the changelog are from osu-mg-skin, you can go there and check
+✳ There might be some issues mentioned in the changelog that are from [osu-Mg-skin](https://github.com/greenmg2003/osu-Mg-skin), you can go there and check
 
 #                          ~ Mg's team in the skin - List of people ~
 
@@ -112,27 +108,45 @@ Update on 14/04/2025 from Mg (me): With the release of Gacha Story coming in 15/
 
 #                                 ~ Media (Latest version) ~
 
-![Song Select](https://github.com/user-attachments/assets/5eddd44a-1215-4fed-b2d2-da373d68e4a4)
+![Song Select](https://github.com/user-attachments/assets/b439558c-4ff3-484a-b44a-55a2b5613d67)
 
-![Mod selection](https://github.com/user-attachments/assets/4e1a01d7-ccf2-4a56-babb-827eafdea26d)
+![Mod selection](https://github.com/user-attachments/assets/eb4d2180-2909-46e0-9f7e-51297ac538f8)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/9cdc2865-0949-423b-a4f5-107bf5f83c60)
+![Circles and Sliders](https://github.com/user-attachments/assets/7acdd6ee-8cba-4feb-a029-26aa40c3f2a8)
 
-![Spinner](https://github.com/user-attachments/assets/3b261ab1-afde-43e7-9938-8396cc81391a)
+![Spinner](https://github.com/user-attachments/assets/c743723a-94aa-49de-95ad-b1993eba3f23)
 
-![Taiko! mode](https://github.com/user-attachments/assets/c3a16e5f-40df-4d34-ae2b-696981f4f2c9)
+![Taiko! mode](https://github.com/user-attachments/assets/99d8361a-4063-463f-86ca-17434534f84a)
 
-![Catch! mode](https://github.com/user-attachments/assets/78f9597e-4d9e-4ec5-b66d-f7a00603a6da)
+![Catch! mode](https://github.com/user-attachments/assets/2d9d1be0-459c-4023-b187-e7b43d2a8675)
 
-![4K Mania! Mode](https://github.com/user-attachments/assets/197849e2-caa2-4489-a628-58d7459c07f8)
+![4K Mania! Mode](https://github.com/user-attachments/assets/27bb0c83-af7b-4685-8947-ddd84d1821d8)
 
-![7K Mania! Mode](https://github.com/user-attachments/assets/5aeda919-af73-45a7-953e-72130230afa6)
+![7K Mania! Mode](https://github.com/user-attachments/assets/5a94d60d-078e-49bd-856b-cdf1b1c4bfb6)
 
-![Result Screen](https://github.com/user-attachments/assets/6446062c-f220-4ba4-9ede-92fa92b85de1)
+![Result Screen](https://github.com/user-attachments/assets/4a06367d-a31f-4c9a-9fd5-4be888fb2a92)
+
+![Pause Screen](https://github.com/user-attachments/assets/53ca60d4-383e-4ce5-ab7b-924585636fe3)
+
+![Fail Screen](https://github.com/user-attachments/assets/40971c47-925b-46e9-b9e1-281e8c44ce50)
 
 # ~ Changelog ~
 
 ## [4.x]
+
+# [4.2.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release)
+
+🔄 Overhauled the text in Pause Screen (Continue, Retry, Back, Watch Replay), check #79
+
+🔄 Fixed "Start" text not centralized
+
+🔄 Text update: "Maximum Recall" -> "Max Combo", "Full Recall" -> "Full Mana!!", "Recall Rate" -> "Mana Rate" (Mainly to avoid DMCA'd by Arcaea by the calling system)
+
+\+ Limbus Company!
+
+# [4.2.4](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.5.0.4-lazer-release)
+
+\+ Lazer support
 
 ### [4.2.3](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.4.2.3-release)
 
