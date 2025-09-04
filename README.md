@@ -1,4 +1,4 @@
-# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01  | Branch: v.4.1.x
+# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01  | Branch: v.4.2.x
 
 ![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
 
@@ -108,23 +108,27 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest version) ~
 
-![Song Select](https://github.com/user-attachments/assets/5eddd44a-1215-4fed-b2d2-da373d68e4a4)
+![Song Select](https://github.com/user-attachments/assets/b439558c-4ff3-484a-b44a-55a2b5613d67)
 
-![Mod selection](https://github.com/user-attachments/assets/4e1a01d7-ccf2-4a56-babb-827eafdea26d)
+![Mod selection](https://github.com/user-attachments/assets/eb4d2180-2909-46e0-9f7e-51297ac538f8)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/9cdc2865-0949-423b-a4f5-107bf5f83c60)
+![Circles and Sliders](https://github.com/user-attachments/assets/7acdd6ee-8cba-4feb-a029-26aa40c3f2a8)
 
-![Spinner](https://github.com/user-attachments/assets/3b261ab1-afde-43e7-9938-8396cc81391a)
+![Spinner](https://github.com/user-attachments/assets/c743723a-94aa-49de-95ad-b1993eba3f23)
 
-![Taiko! mode](https://github.com/user-attachments/assets/c3a16e5f-40df-4d34-ae2b-696981f4f2c9)
+![Taiko! mode](https://github.com/user-attachments/assets/99d8361a-4063-463f-86ca-17434534f84a)
 
-![Catch! mode](https://github.com/user-attachments/assets/78f9597e-4d9e-4ec5-b66d-f7a00603a6da)
+![Catch! mode](https://github.com/user-attachments/assets/2d9d1be0-459c-4023-b187-e7b43d2a8675)
 
-![4K Mania! Mode](https://github.com/user-attachments/assets/197849e2-caa2-4489-a628-58d7459c07f8)
+![4K Mania! Mode](https://github.com/user-attachments/assets/27bb0c83-af7b-4685-8947-ddd84d1821d8)
 
-![7K Mania! Mode](https://github.com/user-attachments/assets/5aeda919-af73-45a7-953e-72130230afa6)
+![7K Mania! Mode](https://github.com/user-attachments/assets/5a94d60d-078e-49bd-856b-cdf1b1c4bfb6)
 
-![Result Screen](https://github.com/user-attachments/assets/6446062c-f220-4ba4-9ede-92fa92b85de1)
+![Result Screen](https://github.com/user-attachments/assets/4a06367d-a31f-4c9a-9fd5-4be888fb2a92)
+
+![Pause Screen](https://github.com/user-attachments/assets/53ca60d4-383e-4ce5-ab7b-924585636fe3)
+
+![Fail Screen](https://github.com/user-attachments/assets/40971c47-925b-46e9-b9e1-281e8c44ce50)
 
 # ~ Changelog ~
 
