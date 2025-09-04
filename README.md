@@ -19,7 +19,7 @@ Current status: Project is realeasing the translation for Vietnamese and Japanes
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.3-release) | [**4.2.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.3-release) | [**5.0.3**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
+- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release) | [**4.2.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release) | [**5.0.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release) | [**Lazer support**](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.5.0.4-lazer-release)
 
 - Copyright issue: Assets that are made from other skins are credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -112,34 +112,38 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/7b82d2a4-bfa9-48f4-a603-2a22a6996157)
+![Song Select](https://github.com/user-attachments/assets/e315997b-04e7-4aed-a0fb-07ea2c0b1e42)
 
-![Mod selection](https://github.com/user-attachments/assets/fa386ee2-c084-4f9b-8be6-c6ee5216bbc8)
+![Mod selection](https://github.com/user-attachments/assets/b3f2e58c-4dbb-4b67-9927-a9235736d8bf)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/2abfc9e2-d255-43b1-a532-06a1ee8f7060)
+![Circles and Sliders](https://github.com/user-attachments/assets/9dfd9d31-5ee7-410e-8440-6418fc91fda0)
 
-![Spinner](https://github.com/user-attachments/assets/71a74256-3f86-4b5f-b30e-0c2ae0bbbd13)
+![Spinner](https://github.com/user-attachments/assets/97a3804a-ca2f-4662-bf9d-f203a14ebf9d)
 
-![Taiko! mode](https://github.com/user-attachments/assets/aacb4ca2-734e-42fe-8d01-4f62becde13b)
+![Taiko! mode](https://github.com/user-attachments/assets/af29d018-8428-4fbd-8dbb-67197af06b2f)
 
-![Catch! mode](https://github.com/user-attachments/assets/c31af4f4-c511-4b85-b650-33e70ab267d0)
+![Catch! mode](https://github.com/user-attachments/assets/2f9e695c-c298-4936-9cad-dc0c1e86b0bb)
 
-![4K Mania](https://github.com/user-attachments/assets/9cc05ce0-2c90-4949-a210-8161b0eb9234)
+![4K Mania](https://github.com/user-attachments/assets/96df1587-8b79-4ac0-9b55-4a4473141af5)
 
-![7K Mania](https://github.com/user-attachments/assets/043520f1-32d4-4b74-98c5-6c74dcc56679)
+![7K Mania](https://github.com/user-attachments/assets/3689169c-a2a9-44f1-ab54-90fe819b01cc)
 
-![Result Screen](https://github.com/user-attachments/assets/8eef602a-2abb-43f3-81d8-ea981baeba71)
+![Result Screen](https://github.com/user-attachments/assets/dfe67cc4-6009-4439-945f-73d5ff4cd64f)
+
+![Pause Screen](https://github.com/user-attachments/assets/793cb96e-57f5-4523-9dc8-df84d4cfda81)
+
+![Fail Screen](https://github.com/user-attachments/assets/0b5caf3e-2e69-435c-a27e-99a55e2922b6)
 
 # ~ Changelog ~
 
 (Main branch will only show the latest version: `v.5.0.3`, others will be moved to respective branches!)
 
-# [5.0.3](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.3-release)
+# [5.0.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release)
 
-\+ Add Hikari Maguneshiumu into Taiko section, requested per issue #50
+🔄 Overhauled the text in Pause Screen (Continue, Retry, Back, Watch Replay), check #79
 
-🔄 Readjust the info part of scorebar-bg, will apply for all character in final ultimate update 5.1.0
+🔄 Fixed "Start" text not centralized
 
-\- Removed lighting.png as it's not necessary anymore (Like, too few people use the hit lighting)
+🔄 Text update: "Maximum Recall" -> "Max Combo", "Full Recall" -> "Full Mana!!", "Recall Rate" -> "Mana Rate" (Mainly to avoid DMCA'd by Arcaea by the calling system)
 
 \+ リンバス カンパニー。
