@@ -10,6 +10,7 @@ You may want to jump to [skin preview](#-media-latest-version-)
 Current status: Project is realeasing the translation for Vietnamese and Japanese support! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
+
 ---
 
 #                                ~ osu! Mg ~
@@ -108,23 +109,27 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 #                                 ~ Media (Latest version) ~
 
-![Song Select](https://github.com/user-attachments/assets/ba9074f3-a1c1-49ee-87ab-2d3e767e4386)
+![Song Select](https://github.com/user-attachments/assets/1a0a3de5-5534-4b33-aa98-2ad3a4740d5b)
 
-![Mod selection](https://github.com/user-attachments/assets/e74b5850-878f-4830-86ea-2d46778737bb)
+![Mod selection](https://github.com/user-attachments/assets/b3ed9cb3-fb87-4694-b6f6-883d97efd602)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/c7ef5a06-876d-42f9-bdaf-6b26ac0190c3)
+![Circles and Sliders](https://github.com/user-attachments/assets/544945f3-5df1-4b45-b3a5-a3b84199988b)
 
-![Spinner](https://github.com/user-attachments/assets/4daf233a-95f9-4711-93e7-7337ac379306)
+![Spinner](https://github.com/user-attachments/assets/6f10e976-edc1-4cd9-b259-145c084157bd)
 
-![Taiko! mode](https://github.com/user-attachments/assets/c4a03b99-c013-46bd-9669-d07a313dd93a)
+![Taiko! mode](https://github.com/user-attachments/assets/a970a403-2316-4fa1-908a-6ed259becabd)
 
-![Catch! mode](https://github.com/user-attachments/assets/2c9003c1-cf71-4f53-beb0-bd64da46f8f5)
+![Catch! mode](https://github.com/user-attachments/assets/713cb67d-db6a-407e-ae28-9e67f5a1a003)
 
-![4K Mania! mode](https://github.com/user-attachments/assets/37275a4a-27e8-4aab-80c0-5d88bd35d0fa)
+![4K Mania! mode](https://github.com/user-attachments/assets/d2da1e4c-667b-4ebc-aea8-0f83ec625aff)
 
-![7K Mania! mode](https://github.com/user-attachments/assets/4023bfbe-4ecc-4a18-b787-36bc4f4afedc)
+![7K Mania! mode](https://github.com/user-attachments/assets/6afa7cbb-4412-43a5-abb7-e28a749f2f90)
 
-![Result Screen](https://github.com/user-attachments/assets/f961b944-106d-4bba-867e-a78391fb3876)
+![Result Screen](https://github.com/user-attachments/assets/ab65a659-c424-45e5-97fd-535fffaa81eb)
+
+![Pause Screen](https://github.com/user-attachments/assets/c6354d7b-abcd-4e6c-a500-2e0af24581a3)
+
+![Fail Screen](https://github.com/user-attachments/assets/a03237e1-4280-46ba-97c8-8aad5f759a8e)
 
 # ~ Changelog ~
 
