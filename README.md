@@ -19,7 +19,7 @@ Current status: Project is realeasing the translation for Vietnamese and Japanes
 
 - Co-leader: **Hikari Richiumu**
 
-- Latest Version for this branch: [4.1.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release)
+- Latest Version for this branch: [**4.1.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release)
 
 - Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
