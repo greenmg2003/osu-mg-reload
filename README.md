@@ -3,11 +3,13 @@
 ![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
 
 
-1 of 2 core projects of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from [osu-mg-skin](https://github.com/greenmg2003/osu-Mg-skin)
+The second core project of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from [osu-mg-skin](https://github.com/greenmg2003/osu-Mg-skin)
+
+Check out the first core project here: [osu! Gacha - Friends and Love](https://github.com/greenmg2003/osu-gacha-friends-and-love)
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Project is realeasing the translation for Vietnamese and Japanese support! There will be more updates in the future!!
+Current status: Project has realeased the translation for Vietnamese and Japanese support, in version 4.1.5, 4.2.5 and 5.0.5!! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
