@@ -5,8 +5,6 @@
 
 The second core project of osu! Gacha Club, with the purpose to bring Gacha Club to osu! game. Transferred and/or revamped from [osu-mg-skin](https://github.com/greenmg2003/osu-Mg-skin)
 
-Check out the first core project here: [osu! Gacha - Friends and Love](https://github.com/greenmg2003/osu-gacha-friends-and-love)
-
 You may want to jump to [skin preview](#-media-latest-version-)
 
 Current status: Project has realeased the translation for Vietnamese and Japanese support, in version 4.1.5, 4.2.5 and 5.0.5!! There will be more updates in the future!!
