@@ -12,6 +12,21 @@ Current status: Project has realeased the translation for Vietnamese and Japanes
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
 ---
+Contents:
+- [Introduction](#--osu--mg--)
+  
+- [Important](#--important--)
+  
+- [Mg's team](#--mg-s-team-in-the-skin---list-of-people--)
+  
+- [Discord](#--discord--)
+  
+- [Media (Latest version)](#--media--latest-version---)
+  
+- [Changelog](#--changelog--)
+  
+  - [5.0.5](#-505--https---githubcom-alphamg2003-osu-mg-reload-releases-tag-v505-release-)
+---
 
 #                                ~ osu! Mg ~
 
