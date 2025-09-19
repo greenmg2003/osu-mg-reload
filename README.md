@@ -46,7 +46,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
                                 
 ⚠ **The Project (along with big project - osu! Gacha Club) IS NOT a part of Gacha Community.** That does not mean I stopped supporting the game. We simply do it for personal use at the start, and I bring this part of project for public use to everyone who supported us, not for serving and beautify Gacha Community like in the past. [Read here to understand why](https://github.com/greenmg2003/osu-mg-reload/blob/main/project_direction.md). All the hatred that I received that is like "Ew Gacha" or "Gacha is disgusting" will be redirected to community, I do not have time to deal with that. The community does bad thing and they must suffer the consequences themselves, not me.
 
-⚠ **We DO NOT welcome kids from Gacha Community who are 16 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
+⚠ **We DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
 ✳ For 2.1.0, 3.0.x and 3.1.x: If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
