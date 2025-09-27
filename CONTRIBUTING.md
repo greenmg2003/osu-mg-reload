@@ -6,7 +6,7 @@
 
 \+ By using the product of this project (i.e. the release of osu! skin that is from this project) and joining project, you agree on being responsible of making constructive suggestion and being respectful to others. It's acceptable if you don't like it without leaving any toxic comment.
 
-\+ Every kind of destructive suggestion, giving hated speech towards this project is not allowed
+\+ Every kind of destructive suggestion, giving hatred speech towards this project is not allowed
 
 \+ Swearing is allowed, but it's limited to swearing in friendly, joking zone without insulting people and subjects.
 
