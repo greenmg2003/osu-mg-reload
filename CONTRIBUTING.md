@@ -6,23 +6,23 @@
 
 \+ By using the product of this project (i.e. the release of osu! skin that is from this project) and joining project, you agree on being responsible of making constructive suggestion and being respectful to others. It's acceptable if you don't like it without leaving any toxic comment.
 
-\+ Every kind of destructive suggestion, giving hatred speech towards this project is not allowed
+\+ Every kind of destructive suggestion, giving hatred speech towards this project is not allowed.
 
 \+ Swearing is allowed, but it's limited to swearing in friendly, joking zone without insulting people and subjects.
 
 \+ Keep members' personal details as private.
 
-\+ Avoid spamming too much or members in the chat will be in chaos.
+\+ Avoid spamming too much or members in the team will be in chaos. This applies to Issues, Pull Requests and Discussions tab.
 
 \+ Use common sense. If something seems inappropriate or unreasonable to post, then don't.
 
 \+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
 
-## R-2. Refrain from referring the project as a part of Gacha Community.
+## R-2. Refrain from referring the project as a part of Gacha Communities.
 
-\+ The project is not affiliated with Gacha Community. Calling this as part of the community is not allowed.
+\+ The project is not affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities). Calling this as part of the communities is not allowed.
 
-\+ Do not attack the one who supported my project all along, they are not deserved to be harrashed.
+\+ Do not attack the one who supported my project all along, they are not deserved to be harrassed.
 
 ## R-3. Follow osu! rules
 
