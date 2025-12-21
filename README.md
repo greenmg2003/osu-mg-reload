@@ -1,4 +1,4 @@
-# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01
+# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01 | Branch: v.5.1.x
 
 ![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
 
@@ -7,7 +7,7 @@ The second core project of osu! Gacha Club, with the purpose to bring Gacha Club
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Project has realeased the translation for Vietnamese and Japanese support, in version 4.1.5, 4.2.5 and 5.0.5!! There will be more updates in the future!!
+Current status: Season 1 of this project has been finalized with v.5.1.0, Vietnamese and Japanese version will also be released at a later time!! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -25,7 +25,7 @@ Contents:
   
 - [Changelog](#--changelog--)
   
-  - [5.0.5](#-505--https---githubcom-alphamg2003-osu-mg-reload-releases-tag-v505-release-)
+  - [5.1.0](#-510--https---githubcom-alphamg2003-osu-mg-reload-releases-tag-v510-release-)
 ---
 
 #                                ~ osu! Mg ~
@@ -34,7 +34,7 @@ Contents:
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release) | [**4.2.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release) | [**5.0.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release) | [**Lazer support**](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.5.0.4-lazer-release)
+- Latest Version for this branch: [**5.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release) | [**Lazer support**] (Coming soon!!)
 
 - Copyright issue: Assets that are made from other skins are credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -48,57 +48,52 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ⚠ **We DO NOT welcome kids from Gacha Community who are 13 years old and below, or cringe, heat content creators.** As stated, this project is only for the one who wish to sail on same boat with me and support me. 
 
-✳ For 2.1.0, 3.0.x and 3.1.x: If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
+✳ The skin is only SD
 
-✳ For 4.1.x, 4.2.x, 5.0.x: The skin is only SD.
-
-✳ For 6.x onwards: The skin will be fully supported with HD with new design
-
-✳ Want to contribue? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
-
-✳ There might be some issues mentioned in the changelog that are from [osu-Mg-skin](https://github.com/greenmg2003/osu-Mg-skin), you can go there and check
+✳ Want to contribute? [Great, read this first before contributing!](https://github.com/alphamg2003/osu-Mg-reload/blob/main/CONTRIBUTING.md)
 
 #                          ~ Mg's team in the skin - List of people ~
 
-### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.1.x)
+#                          ~ Mg's team in the skin - List of people ~
 
-+ Alpha Green Mg (project leader) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section of 4.1.0)
+### Couple 1 - Main: (In Combo Burst 5, in ranking panel)
 
-+ Lithia (In HR, NF, Relax mode, and in taiko! section of 4.1.0)
++ Alpha Green Mg (project leader) (In EZ, NF, Relax mode, section-pass/fail)
 
-### Couple 2 - Main: (In Combo Burst 1 - New, in ranking panel of both 4.1.2 + 4.2.1 and in song selection interface of version 4.2.x + 5.0.x)
++ Lithia (In HR, NF, Relax mode)
 
-+ Hikari Maguneshiumu (Another character of owner) (In Co-op mode, and in catch! section of 4.2.x)
+### Couple 2 - Main: (In Combo Burst 1, in ranking panel and in song selection interface)
+
++ Hikari Maguneshiumu (Another character of owner) (In Co-op mode)
 
 *Note: Also it's Vanilla Mg [In HT mode]*
 
-+ Hikari Richiumu (project co-leader) (In Co-op mode, and in catch! section of 5.0.x)
++ Hikari Richiumu (project co-leader) (In Co-op mode, and in catch! section)
 
 ### Not-a-couple:
 
-+ Hannah - Bao 1908 (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
++ Hannah - Bao 1908 (In DT mode, Comboburst 2)
 
-+ TCT (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
++ TCT (In Fade-In [FI] mode, Comboburst 3)
 
-### Couple 3: (In Combo Burst 10 - Old)
-
+### Couple 3:
 + Sakura (Element: Actinium - Ac) (In Skip button)
 
 + Delta Calcium (In DT mode)
 
-### Couple 4: (In Combo Burst 9 - Old)
+### Couple 4:
 
 + Peter Barium (In Random [RD] mode)
 
 + Ellie Nickel (In FL mode)
 
-### Couple 5: (In Comboburst 4 - New and in ranking panel from 2.1.0 to 4.1.0)
+### Couple 5: (In Comboburst 4)
 
-+ Dark Mg (Yami Mg/Beta Purple Mg) (In NC mode, Combo Burst 3 - Old)
++ Dark Mg (Yami Mg/Beta Purple Mg) (In NC mode)
 
-+ Orange Lofn - The Orange Myth (In HD mode, Combo Burst 4 - Old)
++ Orange Lofn - The Orange Myth (In HD mode)
 
-### Couple 6: (In Combo Burst 7 - Old)
+### Couple 6:
 
 + Atori Manganesse (Mn) (In AP mode)
 
@@ -110,15 +105,15 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 + Clemont (In CN mode)
 
-### Couple 8: (In V2 mode) (In Combo Burst 8 - Old)
+### Couple 8: (In V2 mode) 
 
 + Billy Iron (boy) 
 
 + Sarah Strontium (girl)
-
+  
 # ~ Discord ~
 
-- Workshop: https://discord.gg/vCxKrf7nBd
+- Workshop: https://discord.gg/kqeVUq9tXs
 
 - hikari_richiumu (skin's co-owner)
 
@@ -127,38 +122,30 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/e315997b-04e7-4aed-a0fb-07ea2c0b1e42)
+![Song Select](...)
 
-![Mod selection](https://github.com/user-attachments/assets/b3f2e58c-4dbb-4b67-9927-a9235736d8bf)
+![Mod selection](...)
 
-![Circles and Sliders](https://github.com/user-attachments/assets/9dfd9d31-5ee7-410e-8440-6418fc91fda0)
+![Circles and Sliders](...)
 
-![Spinner](https://github.com/user-attachments/assets/97a3804a-ca2f-4662-bf9d-f203a14ebf9d)
+![Spinner](...)
 
-![Taiko! mode](https://github.com/user-attachments/assets/af29d018-8428-4fbd-8dbb-67197af06b2f)
+![Taiko! mode](...)
 
-![Catch! mode](https://github.com/user-attachments/assets/2f9e695c-c298-4936-9cad-dc0c1e86b0bb)
+![Catch! mode](...)
 
-![4K Mania](https://github.com/user-attachments/assets/96df1587-8b79-4ac0-9b55-4a4473141af5)
+![4K Mania](...)
 
-![7K Mania](https://github.com/user-attachments/assets/3689169c-a2a9-44f1-ab54-90fe819b01cc)
+![7K Mania](...)
 
-![Result Screen](https://github.com/user-attachments/assets/dfe67cc4-6009-4439-945f-73d5ff4cd64f)
+![Result Screen](...)
 
-![Pause Screen](https://github.com/user-attachments/assets/793cb96e-57f5-4523-9dc8-df84d4cfda81)
+![Pause Screen](...)
 
-![Fail Screen](https://github.com/user-attachments/assets/0b5caf3e-2e69-435c-a27e-99a55e2922b6)
+![Fail Screen](...)
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.5.0.3`, others will be moved to respective branches!)
+# [5.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release)
 
-# [5.0.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release)
 
-🔄 Overhauled the text in Pause Screen (Continue, Retry, Back, Watch Replay), check #79
-
-🔄 Fixed "Start" text not centralized
-
-🔄 Text update: "Maximum Recall" -> "Max Combo", "Full Recall" -> "Full Mana!!", "Recall Rate" -> "Mana Rate" (Mainly to avoid DMCA'd by Arcaea by the calling system)
-
-\+ リンバス カンパニー。
