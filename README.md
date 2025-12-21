@@ -1,4 +1,4 @@
-# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01  | Branch: v.5.1.x
+# Project: osu! Gacha Club | Sub-project: osu! Mg - Season 01  | Branch: v.5.0.x
 
 ![Project Banner Season 1](https://github.com/user-attachments/assets/a769a7f7-a899-40cf-9699-467ea15445b5)
 
