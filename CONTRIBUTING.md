@@ -1,4 +1,4 @@
-# Rules and guildlines for contributing and making discussion
+# Rules and guidelines for contributing and making discussion
 
 ## Rules
 
