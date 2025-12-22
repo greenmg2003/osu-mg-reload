@@ -202,6 +202,6 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 🔄 Improve osu! standard playfield and other stuff, requested in [#95](https://github.com/greenmg2003/osu-mg-reload/issues/95)
 
-+ Add "Good Luck" cheering, requested in [#96](https://github.com/greenmg2003/osu-mg-reload/issues/96)
+\+ Add "Good Luck" cheering, requested in [#96](https://github.com/greenmg2003/osu-mg-reload/issues/96)
 
-+ Merry Christmas!! メリークリスマス！
+\+ Merry Christmas!! メリークリスマス！
