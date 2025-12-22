@@ -122,30 +122,80 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](...)
 
-![Mod selection](...)
+## Song Select
 
-![Circles and Sliders](...)
+![screenshot3682](https://github.com/user-attachments/assets/28efd0a7-0578-466f-aabd-07ae353cdc48)
 
-![Spinner](...)
+![screenshot3683](https://github.com/user-attachments/assets/cf5d4e69-a23b-4c47-8a58-3e86bb1aa68b)
 
-![Taiko! mode](...)
+![screenshot3684](https://github.com/user-attachments/assets/0bf6a768-da65-498c-85de-d9750940f2d5)
 
-![Catch! mode](...)
+## Mod selection
 
-![4K Mania](...)
+![screenshot3685](https://github.com/user-attachments/assets/0ff4fb6e-8436-4ca6-998d-8680c7c9d46d)
 
-![7K Mania](...)
+## Circles and Sliders
 
-![Result Screen](...)
+![screenshot3666](https://github.com/user-attachments/assets/82d2f7df-2016-471e-b7e8-d2ad73d3573a)
 
-![Pause Screen](...)
+## Spinner
 
-![Fail Screen](...)
+![screenshot3686](https://github.com/user-attachments/assets/a7de9d3c-4cbe-44ff-a86d-c74b4df73577)
+
+![screenshot3667](https://github.com/user-attachments/assets/ef46fccb-14e7-4a91-beb6-3601a83ab357)
+
+## Taiko! mode
+
+![screenshot3668](https://github.com/user-attachments/assets/c569d494-7826-438e-93df-a01517b68f6a)
+
+![screenshot3669](https://github.com/user-attachments/assets/7bc34903-2c0e-4165-8a93-31fe445daada)
+
+![screenshot3670](https://github.com/user-attachments/assets/33d624cf-907f-422f-b6b9-3333ff455f5f)
+
+## Catch! mode
+
+![screenshot3672](https://github.com/user-attachments/assets/1fded393-1f78-4a72-bed9-dfe2f322bff9)
+
+![screenshot3675](https://github.com/user-attachments/assets/fdead8c6-0021-489d-969b-43980a67d687)
+
+![screenshot3676](https://github.com/user-attachments/assets/f9fe2c30-7ebd-4aa7-a4c0-f4303a06a9f1)
+
+## 4K Mania 
+
+![screenshot3677](https://github.com/user-attachments/assets/f21c0cd0-1344-452e-a676-862983b6fe50)
+
+## 7K Mania
+
+![screenshot3678](https://github.com/user-attachments/assets/b5087db4-7bf8-4138-9a6e-b9a1a72e8578)
+
+## Result Screen
+
+![screenshot3679](https://github.com/user-attachments/assets/b0cb9e7b-5b28-4ac3-9042-958015e8a1f0)
+
+## Pause Screen
+
+![screenshot3680](https://github.com/user-attachments/assets/927d5cbe-7fef-4954-af52-e862c3973f87)
+
+## Fail Screen
+
+![screenshot3681](https://github.com/user-attachments/assets/dece1a3c-91bb-4fbd-8ff5-6e65079446cf)
 
 # ~ Changelog ~
 
-# [5.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release)
+## [5.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release)
 
+🔄 Change the song selection card, requested in [#90](https://github.com/greenmg2003/osu-mg-reload/issues/90)
+
+🔄 Update the version of 4.1.5, 4.2.5 and 5.0.5 to only 5.1.0 - 3 variants each, requested in [#91](https://github.com/greenmg2003/osu-mg-reload/issues/91)
+
+🔄 Fix the end trail to make it look like 4.1.5 did - osu! Mania 7K, requested in [#92](https://github.com/greenmg2003/osu-mg-reload/issues/92)
+
+🔄 Change Hikari-kun & Hikari-chan's Dash Color, requested in [#94](https://github.com/greenmg2003/osu-mg-reload/issues/94)
+
+🔄 Improve osu! standard playfield and other stuff, requested in [#95](https://github.com/greenmg2003/osu-mg-reload/issues/95)
+
+\+ Add "Good Luck" cheering, requested in [#96](https://github.com/greenmg2003/osu-mg-reload/issues/96)
+
+\+ Merry Christmas!! メリークリスマス！
 
