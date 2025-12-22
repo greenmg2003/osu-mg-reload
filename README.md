@@ -7,7 +7,7 @@ The second core project of osu! Gacha Club, with the purpose to bring Gacha Club
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Project has realeased the translation for Vietnamese and Japanese support, in version 4.1.5, 4.2.5 and 5.0.5!! There will be more updates in the future!!
+Current status: Season 1 of this project has been finalized with v.5.1.0, Vietnamese and Japanese version will also be released at a later time!! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
@@ -34,7 +34,7 @@ Contents:
 
 - Co-leader: **Hikari Richiumu**
 
-- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release) | [**4.2.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release) | [**5.0.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release) | [**Lazer support**](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.5.0.4-lazer-release)
+- Version: [**2.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.2.1.0-release) | [**3.1.1**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.3.1.1-release) | [**4.1.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.1.5-release) | [**4.2.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.4.2.5-release) | [**5.0.5**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release) | [**5.1.0**](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release) | [**Lazer support**](https://github.com/greenmg2003/osu-mg-reload/releases/tag/v.5.0.4-lazer-release)
 
 - Copyright issue: Assets that are made from other skins are credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
@@ -127,38 +127,81 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 - Bao1908
 
 #                                 ~ Media (Latest version) ~
-![Song Select](https://github.com/user-attachments/assets/e315997b-04e7-4aed-a0fb-07ea2c0b1e42)
 
-![Mod selection](https://github.com/user-attachments/assets/b3f2e58c-4dbb-4b67-9927-a9235736d8bf)
+## Song Select
 
-![Circles and Sliders](https://github.com/user-attachments/assets/9dfd9d31-5ee7-410e-8440-6418fc91fda0)
+![screenshot3682](https://github.com/user-attachments/assets/28efd0a7-0578-466f-aabd-07ae353cdc48)
 
-![Spinner](https://github.com/user-attachments/assets/97a3804a-ca2f-4662-bf9d-f203a14ebf9d)
+![screenshot3683](https://github.com/user-attachments/assets/cf5d4e69-a23b-4c47-8a58-3e86bb1aa68b)
 
-![Taiko! mode](https://github.com/user-attachments/assets/af29d018-8428-4fbd-8dbb-67197af06b2f)
+![screenshot3684](https://github.com/user-attachments/assets/0bf6a768-da65-498c-85de-d9750940f2d5)
 
-![Catch! mode](https://github.com/user-attachments/assets/2f9e695c-c298-4936-9cad-dc0c1e86b0bb)
+## Mod selection
 
-![4K Mania](https://github.com/user-attachments/assets/96df1587-8b79-4ac0-9b55-4a4473141af5)
+![screenshot3685](https://github.com/user-attachments/assets/0ff4fb6e-8436-4ca6-998d-8680c7c9d46d)
 
-![7K Mania](https://github.com/user-attachments/assets/3689169c-a2a9-44f1-ab54-90fe819b01cc)
+## Circles and Sliders
 
-![Result Screen](https://github.com/user-attachments/assets/dfe67cc4-6009-4439-945f-73d5ff4cd64f)
+![screenshot3666](https://github.com/user-attachments/assets/82d2f7df-2016-471e-b7e8-d2ad73d3573a)
 
-![Pause Screen](https://github.com/user-attachments/assets/793cb96e-57f5-4523-9dc8-df84d4cfda81)
+## Spinner
 
-![Fail Screen](https://github.com/user-attachments/assets/0b5caf3e-2e69-435c-a27e-99a55e2922b6)
+![screenshot3686](https://github.com/user-attachments/assets/a7de9d3c-4cbe-44ff-a86d-c74b4df73577)
+
+![screenshot3667](https://github.com/user-attachments/assets/ef46fccb-14e7-4a91-beb6-3601a83ab357)
+
+## Taiko! mode
+
+![screenshot3668](https://github.com/user-attachments/assets/c569d494-7826-438e-93df-a01517b68f6a)
+
+![screenshot3669](https://github.com/user-attachments/assets/7bc34903-2c0e-4165-8a93-31fe445daada)
+
+![screenshot3670](https://github.com/user-attachments/assets/33d624cf-907f-422f-b6b9-3333ff455f5f)
+
+## Catch! mode
+
+![screenshot3672](https://github.com/user-attachments/assets/1fded393-1f78-4a72-bed9-dfe2f322bff9)
+
+![screenshot3675](https://github.com/user-attachments/assets/fdead8c6-0021-489d-969b-43980a67d687)
+
+![screenshot3676](https://github.com/user-attachments/assets/f9fe2c30-7ebd-4aa7-a4c0-f4303a06a9f1)
+
+## 4K Mania 
+
+![screenshot3677](https://github.com/user-attachments/assets/f21c0cd0-1344-452e-a676-862983b6fe50)
+
+## 7K Mania
+
+![screenshot3678](https://github.com/user-attachments/assets/b5087db4-7bf8-4138-9a6e-b9a1a72e8578)
+
+## Result Screen
+
+![screenshot3679](https://github.com/user-attachments/assets/b0cb9e7b-5b28-4ac3-9042-958015e8a1f0)
+
+## Pause Screen
+
+![screenshot3680](https://github.com/user-attachments/assets/927d5cbe-7fef-4954-af52-e862c3973f87)
+
+## Fail Screen
+
+![screenshot3681](https://github.com/user-attachments/assets/dece1a3c-91bb-4fbd-8ff5-6e65079446cf)
 
 # ~ Changelog ~
 
-(Main branch will only show the latest version: `v.5.0.3`, others will be moved to respective branches!)
+(Main branch will only show the latest version: `v.5.1.0`, others will be moved to respective branches!)
 
-# [5.0.5](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.0.5-release)
+## [5.1.0](https://github.com/alphamg2003/osu-Mg-reload/releases/tag/v.5.1.0-release)
 
-🔄 Overhauled the text in Pause Screen (Continue, Retry, Back, Watch Replay), check #79
+🔄 Change the song selection card, requested in [#90](https://github.com/greenmg2003/osu-mg-reload/issues/90)
 
-🔄 Fixed "Start" text not centralized
+🔄 Update the version of 4.1.5, 4.2.5 and 5.0.5 to only 5.1.0 - 3 variants each, requested in [#91](https://github.com/greenmg2003/osu-mg-reload/issues/91)
 
-🔄 Text update: "Maximum Recall" -> "Max Combo", "Full Recall" -> "Full Mana!!", "Recall Rate" -> "Mana Rate" (Mainly to avoid DMCA'd by Arcaea by the calling system)
+🔄 Fix the end trail to make it look like 4.1.5 did - osu! Mania 7K, requested in [#92](https://github.com/greenmg2003/osu-mg-reload/issues/92)
 
-\+ リンバス カンパニー。
+🔄 Change Hikari-kun & Hikari-chan's Dash Color, requested in [#94](https://github.com/greenmg2003/osu-mg-reload/issues/94)
+
+🔄 Improve osu! standard playfield and other stuff, requested in [#95](https://github.com/greenmg2003/osu-mg-reload/issues/95)
+
++ Add "Good Luck" cheering, requested in [#96](https://github.com/greenmg2003/osu-mg-reload/issues/96)
+
++ Merry Christmas!! メリークリスマス！
