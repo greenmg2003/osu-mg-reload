@@ -7,7 +7,7 @@ The second core project of osu! Gacha Club, with the purpose to bring Gacha Club
 
 You may want to jump to [skin preview](#-media-latest-version-)
 
-Current status: Season 1 of this project has been finalized with v.5.1.0, Vietnamese and Japanese version will also be released at a later time!! There will be more updates in the future!!
+Current status: Season 1 of this project has been finalized with v.5.1.0, with Vietnamese and Japanese version supported!! There will be more updates in the future!!
 
 [Stability Status]: As of now, the project is stable. There is [the post exposing the hatred towards this project](https://github.com/greenmg2003/osu-mg-reload/blob/main/30-01-2025-serious-report.md).
 
