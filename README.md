@@ -98,7 +98,7 @@ Sub-project: [VTuber Alpha Mg](https://github.com/alphamg2003/Alpha_Mg_VTuber)
 
 ![screenshot3666](https://github.com/user-attachments/assets/82d2f7df-2016-471e-b7e8-d2ad73d3573a)
 
-## Spinner
+### Spinner
 
 ![screenshot3686](https://github.com/user-attachments/assets/a7de9d3c-4cbe-44ff-a86d-c74b4df73577)
 
