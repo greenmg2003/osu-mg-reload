@@ -25,7 +25,7 @@ Contents:
   
 - [Changelog](#--changelog--)
   
-  - [5.0.5](#-505--https---githubcom-alphamg2003-osu-mg-reload-releases-tag-v505-release-)
+  - [5.1.0](#-510--https---githubcom-alphamg2003-osu-mg-reload-releases-tag-v510-release-)
 ---
 
 #                                ~ osu! Mg ~
