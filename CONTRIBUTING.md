@@ -18,17 +18,17 @@
 
 \+ If the owners or admins of this project tell you to stop, please stop. Their decision is final, no point being against them.
 
-## R-2. Refrain from referring the project as a part of Gacha Communities.
+### R-2. Refrain from referring the project as a part of Gacha Communities.
 
 \+ The project is not affiliated with Gacha Communities (Specificially Gacha Life, Gacha Club, Gacha Life 2 Communities). Calling this as part of the communities is not allowed.
 
 \+ Do not attack the one who supported my project all along, they are not deserved to be harrassed.
 
-## R-3. Follow osu! rules
+### R-3. Follow osu! rules
 
 \+ By using the project, you agree to follow [osu! rules](https://osu.ppy.sh/wiki/en/Rules). Failed to abide their rules will have yourself banned from this project.
 
-## R-4. Refrain from bringing NSFW and Sensitive Contents
+### R-4. Refrain from bringing NSFW and Sensitive Contents
 
 \+ By using this project, you are not allowed to share NSFW content of any form in this repo or in social medias. Keep this project PG-13.
 
