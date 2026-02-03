@@ -62,12 +62,15 @@
 
 ### I-2. Pull requests:
 
-1. Clone this repo to GitHub Destop with link: `https://github.com/greenmg2003/osu-mg-reload.git`
+1. Clone this repo to GitHub Desktop with link: `https://github.com/greenmg2003/osu-mg-reload.git`. There are 2 ways:
 
-2. Pick the desired version, create a folder in osu! skin folder with `osu! Mg x.x.x`
+- Using command line: `git clone https://github.com/greenmg2003/osu-mg-reload.git`
+- On the main screen of this repository, tap on `Code`, then choose `Open with GitHub Desktop`
+
+3. Pick the desired version, create a folder in osu! skin folder with `osu! Mg x.x.x`
 ![Example](https://github.com/user-attachments/assets/4cc6a414-f2a6-4879-b5ef-d574760c4d31)
 
-3. In GitHub Desktop, choose the branch of your desired version. Then, click on New Branch.
+4. In GitHub Desktop, choose the branch of your desired version. Then, click on New Branch.
 ![GitHubDesktop_Create Branch](https://github.com/user-attachments/assets/c5260505-e7e1-4c2c-bbbd-d78da95c1bd4)
 
 Then, on this screen, write your branch name, and `Create branch based on: v.x.x.x`, as shown
